@@ -1,0 +1,45 @@
+Galileo "Galley" Galilei
+
+Race: Eladrin (Autumn)
+
+Stars Druid 6
+
+STR: 8
+DEX: 14
+CON: 18
+INT: 8
+WIS: 20
+CHA: 9
+
+HP: 57
+AC: 14
+
++2 Initiative
++8 Perception
++8 Animal Handling
++8 Nature
++8 Survival
+
+Spell Slots
+1st - 4/4
+2nd - 3/3
+3rd - 3/3
+
+Spells
+Cantrips - Guidance, Frostbite, Shape Water, Mending
+1st - Healing Word, Detect Poison and Disease, Purify Food and Drink, Cure Wounds, Animal Friendship, Silent Image
+2nd - Augury, Animal Messenger, Skywrite, Misty Step
+3rd - Water Breathing, Call Lightning, Tidal Wave
+
+Fey Step - 1/1
+
+Starry Form - 2/2
+Archer - 1d8 + Wis radiant dmg
+Chalice - 1d8 + Wis extra heal
+Dragon - Reliable Talent for Int/Wis/Conc.
+
+Cosmic Omen - 3/3
+Weal/Woe - 1d6 +/- from roll
+
+Feats
+Fey Touched (Silent Image)

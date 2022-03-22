@@ -1,0 +1,34 @@
+Wolfgang "Muse" Mozart
+
+Maestro Bard 6
+
+Race: Variant Human
+
+STR: 10
+DEX: 16
+CON: 3
+INT: 14
+WIS: 14
+CHA: 20
+
+HP: 9/9
+AC: 13
+
++4 Initiative
++11 Performance
++9 Acrobatics
+
+Bardic Inspiration (d8) - 7/7
+
+Abilities
+Song of Rest - 1d6 HP healed on short rest
+Counterspell - Adv on saves vs fright & charm
+Frenetic Crescendo - Mass Bardic Inspiration
+
+Limited Use
+Hasten Tempo - Add Bardic Inspiration to Initiative
+Resonance - Imbue weapon with thunder damage (half roll)
+Guiding Tone - Wis save, half roll psychic damage, walk 10 feet
+
+Feats
+Lucky

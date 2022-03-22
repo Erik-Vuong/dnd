@@ -1,0 +1,46 @@
+Smigvat
+
+Artillerist Artificer 6
+
+Race: Goblin
+
+STR: 8
+DEX: 16
+CON: 14
+INT: 18
+WIS: 9
+CHA: 11
+
+HP: 45
+AC: 16
+
++3 Initiative
++7 History
+
+Nimble Escape
+
+Infusions
+Boots of the Winding Path
+Radiant Weapon
+Lantern of Revealing
+Cloak of the Manta Ray
+Bag of Holding
+Rope of Climbing
+
+Spell Slots
+1st - 4/4
+2nd - 2/2
+
+Spells
+Cantrips - Mending, Prestidigitation
+1st - Faerie Fire, Grease, Snare, Shield, Thunderwave
+2nd - Arcane Lock, Continual Flame, Enhance Ability, Rope Trick, Scorching Ray, Shatter
+
+Fury of the Small - 1/1
++6 extra damage
+
+Telekinetic Reprisal - 3/3
+Str saving throw, 2d8 psychic, 10 feet push
+
+Feat
+Gift of the Gem Dragon

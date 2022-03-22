@@ -1,0 +1,44 @@
+Gordon Ramsay
+
+Race: Variant Human
+
+Garlic Bread Cleric 6
+
+STR: 9
+DEX: 14
+CON: 16
+INT: 9
+WIS: 20
+CHA: 10
+
+HP: 51
+AC: 15	
+
++2 Initiative
++8 Perception
++8 Insight
++8 Religion
+
+Destroy Undead (CR 1/2)
+
+Spell Slots
+1st - 4/4
+2nd - 3/3
+3rd - 3/3
+
+Spells
+Cantrips - Guidance, Light, Toll the Dead, Thaumaturgy
+1st - Grease, Purify Food and Drink, Ceremony, Detect Evil and Good, Detect Magic, Sanctuary
+2nd - Lesser Restoration, Protection from Poison, Warding Bond, Zone of Truth
+3rd - Create Food and Water, Stinking Cloud, Aura of Vitality, Dispel Magic, Remove Curse, Revivify, Tongues
+
+Divine Baker - 5/5
+1d4 + Wis heal garlic bread
+
+Channel Divinity - 2/2
+Satiate Hunger - 1d8 + 3 temp hp to 10 people
+Food Coma - Con save, one level of exhaustion
+
+Feats
+Chef
+1d8 extra short rest healing, three +3 temp hp treats
