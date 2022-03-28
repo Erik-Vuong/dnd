@@ -18,17 +18,17 @@ AC: 13
 +11 Performance
 +9 Acrobatics
 
-Bardic Inspiration (d8) - 7/7
-
 Abilities
 Song of Rest - 1d6 HP healed on short rest
 Counterspell - Adv on saves vs fright & charm
 Frenetic Crescendo - Mass Bardic Inspiration
 
-Limited Use
+Bardic Inspiration (d8) - 7/7
+
+Limited Use (Bonus Action)
 Hasten Tempo - Add Bardic Inspiration to Initiative
-Resonance - Imbue weapon with thunder damage (half roll)
-Guiding Tone - Wis save, half roll psychic damage, walk 10 feet
+Resonance - Imbue weapon with thunder damage (half roll) for a turn
+Guiding Tone - DC 16 Wis save, half roll psychic damage, walk 10 feet
 
 Feats
 Lucky
