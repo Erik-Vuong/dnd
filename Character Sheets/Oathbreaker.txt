@@ -1,0 +1,88 @@
+STR: 16
+DEX: 12
+CON: 16
+INT: 9
+WIS: 11
+CHA: 19
+
+1st Level
+Race: Aasimar (Fallen)
+Background: Haunted One
+Skill Proficiencies: Intimidation, Athletics, Persuasion, Religion
+Weapon Proficiencies: Simple Weapons, Martial Weapons, All Armor, Shields
+Equipment: 2 Greatswords, 5 Javelins, Chain Mail, Holy Symbol, Explorer's Pack, Monster Hunter's Pack, Trinket, Common Clothes, 1 SP
+Skills: Darkvision, Celestial Resistance, Healing Hands, Divine Sense, Lay on Hands
+Languages: Common, Celestial, Primordial
+Feature: Heart of Darkness
+Cantrip: Light
+
+2nd Level
+Fighting Style: Defense
+Skill: Divine Smite
+1st Tier Spells: Bless, Shield of Faith, Compelled Duel, Protection from Evil and Good
+
+3rd Level
+Skills: Divine Health, Necrotic Shroud
+Sacred Oath: Oathbreaker
+Channel Divinity: Control Undead, Dreadful Aspect
+Oath Spells: Hellish Rebuke, Inflict Wounds
+
+4th Level
+Feat: Fey Touched (18 Cha, Hex)
+
+5th Level
+Skill: Extra Attack
+Oath Spells: Crown of Madness, Darkness
+2nd Tier Spell: Find Steed, Aid
+
+6th Level
+Skill: Aura of Protection
+2nd Tier Spell: Lesser Restoration
+
+7th Level
+Skill: Aura of Hate
+
+8th Level
+ASI: +2 Cha (20 Cha)
+
+9th Level
+Oath Spells: Animate Dead, Bestow Curse
+Drop 2nd Tier Spell: Lesser Restoration
+3rd Tier Spells: Crusader's Mantle, Aura of Vitality, Revivify
+
+10th Level
+Skill: Aura of Courage
+
+11th Level
+Skill: Improved Divine Smite
+
+12th Level
+Feat: Great Weapon Master
+
+13th Level
+Oath Spells: Blight, Confusion
+4th Tier Spells: Death Ward, Find Greater Steed
+
+14th Level
+Skill: Cleansing Touch
+
+15th Level
+Skill: Supernatural Resistance
+
+16th Level
+ASI: +2 Con (18 Con)
+
+17th Level
+Oath Spells: Contagion, Dominate Person
+5th Tier Spells: Destructive Wave, Circle of Power
+
+18th Level
+Skill: Improved Auras
+5th Tier Spell: Holy Weapon
+
+19th Level
+ASI: +2 Con (20 Con)
+
+20th Level
+5th Tier Spell: Banishing Smite
+Skill: Dread Lord

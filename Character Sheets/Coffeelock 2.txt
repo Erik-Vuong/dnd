@@ -1,0 +1,118 @@
+STR: 8
+DEX: 14
+CON: 16
+INT: 8
+WIS: 12
+CHA: 16
+
+1st Level
+Class: Sorcerer 1
+Race: Warforged
+Background: Far Traveler
+Skill Proficiencies: Persuasion, Deception, Perception, Insight, Arcana
+Weapon Proficiencies: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows, Viol, Dice Set, Brewer's Supplies
+Equipment: Light Crossbow, 20 Bolts, Arcane Focus, 2 Daggers, Explorer's Pack, Traveler's Clothes, Viol, Dice Set, Crude Map, Jewelry (10 GP), 5 GP
+Skills: Constructed Resilience, Sentry's Rest, Integrated Protection
+Languages: Common, Dwarvish
+Feature: All Eyes on You
+Sorcerous Origin: Clockwork Soul
+Cantrips: Fire Bolt, Mage Hand, Minor Illusion, Prestidigitation
+1st Tier Spells: Ice Knife, Mage Armor
+Clockwork Spells: Absorb Elements, Protection from Good and Evil
+
+2nd Level
+Multiclass: Warlock 1
+Skills: Hexblade's Curse, Hex Warrior
+Cantrips: Eldritch Blast, Mage Hand
+1st Tier Spells: Armor of Agathys, Hex
+Hexblade Spells: Shield, Wrathful Smite
+
+3rd Level
+Class: Sorcerer 2
+Skill: Font of Magic
+1st Tier Spell: Magic Missile
+
+4th Level
+Class: Sorcerer 3
+Metamagic: Quickened Spell, Twinned Spell
+2nd Tier Spell: Scorching Ray
+Clockwork Spells: Aid, Enhance Ability
+
+5th Level
+Class: Sorcerer 4
+Feat: Healer
+Cantrip: Message
+2nd Tier Spell: Misty Step
+
+6th Level
+Multiclass: Warlock 2
+Eldritch Invocations: Agonizing Blast, Eldritch Mind
+1st Tier Spell: Hellish Rebuke
+
+7th Level
+Multiclass: Warlock 3
+Pact Boon: Pact of the Chain
+2nd Tier Spell: Hold Person
+Hexblade Spells: Blur, Branding Smite
+
+8th Level
+Multiclass: Warlock 4
+ASI: +2 Cha (18 Cha)
+2nd Tier Spell: Mirror Image
+
+9th Level
+Multiclass: Warlock 5
+Eldritch Invocation: One with Shadows
+3rd Tier Spell: Counterspell
+Hexblade Spells: Blink, Elemental Weapon
+
+10th Level
+Class: Sorcerer 5
+3rd Tier Spell: Fireball
+Clockwork Spells: Haste, Fly
+
+11th Level
+Class: Sorcerer 6
+Skill: Bastion of Law
+3rd Tier Spell: Hypnotic Pattern
+
+12th Level
+Class: Sorcerer 7
+4th Tier Spell: Banishment
+Clockwork Spells: Death Ward, Summon Construct
+
+13th Level
+Class: Sorcerer 8
+ASI: +2 Cha (20 Cha)
+4th Tier Spell: Fire Shield
+
+14th Level
+Class: Sorcerer 9
+5th Tier Spell: Hold Monster
+Clockwork Spells: Greater Restoration, Temporal Shunt
+
+15th Level
+Class: Sorcerer 10
+Metamagic: Heightened Spell
+5th Tier Spell: Synaptic Snap
+
+16th Level
+Class: Sorcerer 11
+Cantrip: Mending
+6th Tier Spell: Disintegrate
+
+17th Level
+Class: Sorcerer 12
+ASI: +2 Con (18 Con)
+
+18th Level
+Class: Sorcerer 13
+7th Tier Spell: Crown of Stars
+
+19th Level
+Class: Sorcerer 14
+Skill: Trance of Order
+
+20th Level
+Class: Sorcerer 15
+8th Tier Spell: Dominate Monster

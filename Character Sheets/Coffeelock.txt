@@ -1,0 +1,128 @@
+STR: 8
+DEX: 12
+CON: 16
+INT: 8
+WIS: 14
+CHA: 16
+
+1st Level
+Class: Cleric 1
+Race: Warforged
+Background: Far Traveler
+Skill Proficiencies: Persuasion, Religion, Insight, Perception
+Weapon Proficiencies: Simple Weapons, Martial Weapons, All Armor, Shields
+Equipment: Warhammer, Mace, Chain Mail, Shield, Gear Necklace, Explorer's Pack
+Skills: Constructed Resilience, Sentry's Rest, Integrated Protection, Blessing of the Forge
+Languages: Common, Dwarvish
+Feature: All Eyes on You
+Divine Domain: Forge
+Cantrips: Sacred Flame, Guidance, Thaumaturgy
+1st Tier Spells: Bless, Guiding Bolt, Cure Wounds
+Domain Spells: Identify, Searing Smite
+
+2nd Level
+Multiclass: Sorcerer 1
+Sorcerous Origin: Clockwork Soul
+Skill: Restore Balance
+Cantrips: Mage Hand, Minor Illusion, Message, Shape Water
+1st Tier Spells: Sleep, Magic Missile
+Clockwork Spells: Absorb Elements, Shield
+
+3rd Level
+Multiclass: Warlock 1
+Otherworldy Patron: The Fiend
+Skills: Dark One's Blessing
+Cantrips: Eldritch Blast, Prestidigitation
+1st Tier Spells: Hex, Hellish Rebuke
+Fiend Spells: Burning Hands, Command
+
+4th Level
+Multiclass: Sorcerer 2
+Skill: Font of Magic
+1st Tier Spell: Silent Image
+
+5th Level
+Multiclass: Sorcerer 3
+Metamagic: Quickened Spell, Twinned Spell
+2nd Tier Spell: Maximilian's Earthen Grasp
+Clockwork Spells: Aid, Enhance Ability
+
+6th Level
+Multiclass: Warlock 2
+Eldritch Invocations: Agonizing Blast, Eldritch Mind
+1st Tier Spell: Protection from Evil and Good
+
+7th Level
+Multiclass: Warlock 3
+Pact Boon: Pact of the Chain
+2nd Tier Spell: Mirror Image
+Pact Spell: Find Familiar
+Fiend Spells: Blindness/Deafness, Scorching Ray
+
+8th Level
+Multiclass: Warlock 4
+ASI: +2 Cha (18 Cha)
+Cantrip: Create Bonfire
+2nd Tier Spell: Misty Step
+
+9th Level
+Multiclass: Warlock 5
+Eldritch Invocation: Repelling Blast
+3rd Tier Spell: Counterspell
+Fiend Spells: Fireball, Stinking Cloud
+
+10th Level
+Multiclass: Warlock 6
+Skill: Dark One's Own Luck
+3rd Tier Spell: Hypnotic Pattern
+
+11th Level
+Multiclass: Warlock 7
+Eldritch Invocation: Ghostly Gaze
+4th Tier Spell: Banishment
+Fiend Spells: Fire Shield, Wall of Fire
+
+12th Level
+Multiclass: Warlock 8
+ASI: +2 Cha (20 Cha)
+4th Tier Spell: Shadow of Moil
+
+13th Level
+Multiclass: Warlock 9
+Eldritch Invocation: Ghostly Gaze
+5th Tier Spell: Synaptic Static
+Fiend Spells: Flame Strike, Hallow
+
+14th Level
+Multiclass: Warlock 10
+Skill: Fiendish Resilience
+Cantrip: Friends
+
+15th Level
+Multiclass: Warlock 11
+Mystic Arcanum: Mental Prison
+5th Tier Spell: Scrying
+
+16th Level
+Multiclass: Warlock 12
+Feat: Crossbow Expert
+Eldritch Invocation: Gift of the Ever-Living Ones
+
+17th Level
+Multiclass: Warlock 13
+Mystic Arcanum: Forcecage
+5th Tier Spell: Dream
+
+18th Level
+Multiclass: Warlock 14
+Skill: Hurl through Hell
+
+19th Level
+Multiclass: Warlock 15
+Eldritch Invocation: Chains of Carceri
+Mystic Arcanum: Dominate Monster
+5th Tier Spell: Wall of Light
+
+20th Level
+Multiclass: Warlock 16
+Feat: Lucky

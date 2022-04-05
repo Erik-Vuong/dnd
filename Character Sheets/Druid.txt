@@ -1,0 +1,95 @@
+Wild Shape Creatures
+2nd Level - Giant Spider, Dire Wolf
+4th Level - Giant Octopus
+6th Level - Giant Constrictor Snake
+8th Level - Owl, Giant Vulture
+9th Level - Giant Scorpion
+10th Level - Elementals
+15th Level - Giant Crocodile, Giant Shark
+18th Level - Mammoth
+
+STR: 8
+DEX: 14
+CON: 16
+INT: 11
+WIS: 19
+CHA: 12
+
+1st Level
+Race: Wood Elf
+Background: Hermit
+Skill Proficiencies: Perception, Nature, Survival, Medicine, Religion
+Weapon Proficiencies: Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears, Longsword, Shortsword, Shortbow, Longbow, Light Armor, Medium Armor, Shields, Herbalism Kit
+Equipment: Quarterstaff, Wooden Shield, Leather Armor, Explorer's Pack, Druidic Focus, Scroll Case, Winter Blanket, Common Clothes, Herbalism Kit, 5 GP
+Skills: Darkvision, Fey Ancestry, Trance, Fleet of Foot, Mask of the Wild
+Languages: Common, Elven, Druidic, Draconic
+Feature: Discovery
+Cantrips: Guidance, Shape Water
+1st Tier Spells: Entangle, Speak with Animals, Goodberry, Thunderwave
+
+2nd Level
+Druid Circle: Circle of the Moon
+Skills: Wild Shape, Wild Companion, Combat Wild Shape, Circle Forms
+1st Tier Spell: Detect Magic
+
+3rd Level
+2nd Tier Spell: Spike Growth
+
+4th Level
+Feat: War Caster
+2nd Tier Spell: Pass Without Trace
+
+5th Level
+3rd Tier Spell: Conjure Animals
+
+6th Level
+Skill: Primal Strike
+3rd Tier Spell: Dispel Magic
+
+7th Level
+4th Tier Spell: Giant Insect
+
+8th Level
+Feat: Fey Touched (20 Wis, Bless)
+4th Tier Spells: Dominate Beast, Wall of Fire
+
+9th Level
+5th Tier Spell: Insect Plague
+
+10th Level
+Skill: Elemental Wild Shape
+5th Tier Spell: Awaken
+
+11th Level
+6th Tier Spell: Investiture of Stone
+
+12th Level
+Feat: +2 Con
+6th Tier Spells: Wall of Thorns, Transport via Plants
+
+13th Level
+7th Tier Spell: Reverse Gravity
+
+14th Level
+Skill: Thousand Forms
+7th Tier Spell: Plane Shift
+
+15th Level
+8th Tier Spell: Tsunami
+
+16th Level
+ASI: +2 Con (20 Con)
+8th Tier Spell: Incendiary Cloud
+
+17th Level
+9th Tier Spell: Foresight
+
+18th Level
+9th Tier Spell: Shapechange
+
+19th Level
+ASI: Tough
+9th Tier Spell: True Resurrection
+
+20th Level
+9th Tier Spell: Storm of Vengeance

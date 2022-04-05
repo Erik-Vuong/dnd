@@ -1,0 +1,130 @@
+STR: 16
+DEX: 10
+CON: 14
+INT: 8
+WIS: 10
+CHA: 17
+
+Level 1
+Race: Half-ELf (Drow & Shadar-kai)
+Class: Paladin 1
+Background: Mercenary Veteran (Zhentarim)
+Skill Proficiencies: Athletics, Perception, Intimidation, Persuasion
+Weapon Proficiencies: Simple Weapons, Martial Weapons, All Armor, Shields, Tarot Cards, Knucklebones
+Equipment: Greatsword (Shortsword), Shield, Chain Mail, Holy Symbol, Explorer's Pack, Traveler's Clothes, Zhentarim Insignia, Tarot Cards, Knucklebones, 10 GP
+Skills: Darkvision, Fey Ancestry, Divine Sense, Lay on Hands
+Languages: Common, Elven, Infernal
+Feature: Mercenary Life
+Drow Magic: Dancing Lights, Augury
+Drow Patron: Eilistree
+
+Level 2
+Multiclass: Warlock 1
+Otherworldly Patron: Hexblade (Raven Queen)
+Skills: Hexblade's Curse, Hex Warrior
+Cantrips: Eldritch Blast, Green-Flame Blade
+1st Tier Spells: Hex, Armor of Agthys
+Hexblade Spells: Shield, Wrathful Smite
+
+Level 3
+Class: Paladin 2
+Fighting Style: Dueling
+Skill: Divine Smite
+Drow Magic: Faerie Fire
+1st Tier Spells: Bless, Shield of Faith, Cure Wounds, Command
+
+Level 4
+Class: Paladin 3
+Sacred Oath: Vengeance, Harness Divine Power
+Skills: Divine Health
+Channel Divinity: Abjure Enemy, Vow of Enmity
+Oath Spells: Bane, Hunter's Mark
+
+Level 5
+Class: Paladin 4
+Feat: Elven Accuracy (Cha 18)
+Drow Magic: Darkness
+1st Tier Spell: Heroism
+
+Level 6
+Class: Paladin 5
+Skill: Extra Attack
+Oath Spells: Hold Person, Misty Step
+Drop 1st Tier Spell: Heroism
+2nd Tier Spells: Find Steed, Aid
+
+Level 7
+Class: Paladin 6
+Skill: Aura of Protection
+
+Level 8
+Multiclass: Warlock 2
+1st Tier Spell: Hellish Rebuke
+Eldritch Invocations: Agonizing Blast, Devil's Sight
+
+Level 9
+Multiclass: Warlock 3
+Pact Boon: Pact of the Blade
+Drop Eldritch Invocation: Devil's Sight
+Eldritch Invocation: Improved Pact Weapon
+2nd Tier Spell: Mirror Image
+Hexblade Spells: Blur, Branding Smite
+
+Level 10
+Multiclass: Warlock 4
+Feat: War Caster
+Cantrip: Booming Blade
+2nd Tier Spell: Invisibility
+
+Level 11
+Multiclass: Warlock 5
+Eldritch Invocation: Maddening Hex
+3rd Tier Spell: Hypnotic Pattern
+Hexblade Spells: Blink, Elemental Weapon
+
+Level 12
+Multiclass: Warlock 6
+Skill: Accursed Specter
+3rd Tier Spell: Enemies Abound
+
+Level 13
+Multiclass: Warlock 7
+Eldritch Invocation: Devil's Sight
+4th Tier Spell: Shadow of Moil
+Hexblade Spells: Phantasmal Killer, Staggering Smite
+
+Level 14
+Multiclass: Warlock 8
+Feat: Great Weapon Master
+4th Tier Spell:	Banishment
+
+Level 15
+Multiclass: Warlock 9
+Eldritch Invocation: Eldritch Smite
+5th Tier Spell: Hold Monster
+Hexblade Spells: Banishing Smite, Cone of Cold
+
+Level 16
+Multiclass: Warlock 10
+Skill: Armor of Hexes
+Cantrip: Sword Burst
+
+Level 17
+Multiclass: Warlock 11
+5th Tier Spell: Synaptic Static
+Mystic Arcanum: Mental Prison
+
+Level 18
+Multiclass: Warlock 12
+ASI: +2 Cha (20 Cha)
+Eldritch Invocation: Lifedrinker
+2nd Tier Spell: Lesser Restoration
+
+Level 19
+Multiclass: Warlock 13
+5th Tier Spell: Scrying
+Mystic Arcanum: Crown of Stars
+
+Level 20
+Multiclass: Warlock 14
+Skill: Master of Hexes

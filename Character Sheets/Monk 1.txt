@@ -1,0 +1,92 @@
+1st Level
+Race: Wood Elf
+Background: Urchin
+Skill Proficiencies: Perception, Acrobatics, Insight, Stealth, Sleight of Hand
+Weapon Proficiencies: Simple Weapons, Shortswords, Longswords, Shortbow, Longbow, Zither, Disguise Kit, Thieves' Tools
+Equipment: Quarterstaff, Explorer's Pack, 10 Darts, Small Knife, Map of Hometown, Pet Mouse, Token of Parents, Common Clothes, 10 GP
+Skills: Darkvision, Fey Ancestry, Trance, Fleet of Foot, Mask of the Wild, Unarmored Defense, Martial Arts
+Languages: Common, Elven
+Feature: City Streets
+
+2nd Level
+Skills: Ki, Unarmored Movement
+
+3rd Level
+Monastic Tradition: Way of the Long Death
+Skills: Deflect Missiles, Touch of Death, Ki-Fueled Attack
+
+4th Level
+ASI: +1 Dex, +1 Con (18 Dex, 16 Con)
+Skills: Slow Fall, Quickened Healing
+
+5th Level
+Skills: Extra Attack, Stunning Strike, Focused Aim
+
+6th Level
+Skill: Ki-Empowered Strikes, Hour of Reaping
+
+7th Level
+Skill: Evasion, Stillness of Mind
+
+8th Level
+ASI: +2 Dex (20 Dex)
+
+9th Level
+Skill: Unarmored Movement Improvement
+
+10th Level
+Skill: Purity of Body
+
+11th Level
+Skill: Mastery of Death
+
+12th Level
+ASI: +2 Wis (18 Wis)
+
+13th Level
+Skill: Tongue of the Sun and Moon
+
+14th Level
+Skill: Diamond Soul
+
+15th Level
+Skill: Timeless Body
+
+16th Level
+ASI: +2 Wis (20 Wis)
+
+17th Level
+Skill: Touch of Death
+
+18th Level
+Skill: Empty Body
+
+19th Level
+ASI: +2 Con (18 Con)
+
+20th Level
+Skill: Perfect Self
+
+ASI: +1 Dex, +1 Con (18 Dex, 16 Con)
+ASI: +2 Dex (20 Dex)
+ASI: +2 Wis (18 Wis)
+ASI: +2 Wis (20 Wis)
+ASI: +2 Con (18 Con)
+
+Feat: Crusher (16 Con)
+ASI: +1 Dex, +1 Wis (18 Dex, 17 Wis)
+Feat: Fey Touched (18 Wis, Hunter's Mark)
+ASI: +2 Dex (20 Dex)
+ASI: +2 Wis (20 Wis)
+
+Feat: Crusher (18 Dex)
+ASI: +1 Con, +1 Wis (16 Con, 17 Wis)
+Feat: Fey Touched (18 Wis, Hunter's Mark)
+ASI: +2 Dex (20 Dex)
+ASI: +2 Wis (20 Wis)
+
+Feat: Crusher (18 Dex)
+ASI: +2 Dex (20 Dex)
+Feat: Fey Touched (17 Wis, Hunter's Mark)
+ASI: +1 Con, +1 Wis (16 Con, 18 Wis)
+ASI: +2 Wis (20 Wis)

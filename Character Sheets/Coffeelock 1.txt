@@ -1,0 +1,117 @@
+STR: 8
+DEX: 14
+CON: 16
+INT: 8
+WIS: 12
+CHA: 17
+
+1st Level
+Class: Sorcerer 1
+Race: Half-Elf
+Background: Far Traveler
+Skill Proficiencies: Persuasion, Deception, Perception, Insight, Arcana, Intimidation
+Weapon Proficiencies: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows, Viol, Dice Set, Brewer's Supplies
+Equipment: Light Crossbow, 20 Bolts, Arcane Focus, 2 Daggers, Explorer's Pack, Traveler's Clothes, Viol, Dice Set, Crude Map, Jewelry (10 GP), 5 GP
+Skills: Darkvision, Fey Ancestry
+Languages: Common, Elven
+Feature: All Eyes on You
+Sorcerous Origin: Divine Soul
+Cantrips: Toll the Dead, Guidance, Minor Illusion, Prestidigitation
+1st Tier Spells: Magic Missile, Mage Armor
+Divine Magic: Bless
+
+2nd Level
+Multiclass: Warlock 1
+Skills: Hexblade's Curse, Hex Warrior
+Cantrips: Eldritch Blast, Mage Hand
+Drop 1st Tier Spell: Mage Armor
+1st Tier Spells: Armor of Agathys, Hex, Shield
+Hexblade Spells: Shield, Wrathful Smite
+
+3rd Level
+Multiclass: Warlock 2
+Eldritch Invocations: Agonizing Blast, Devil's Sight
+1st Tier Spell: Hellish Rebuke
+
+4th Level
+Multiclass: Warlock 3
+Pact Boon: Pact of the Tome
+Drop Eldritch Invocation: Devil's Sight
+Eldritch Invocation: Aspect of the Moon
+Cantrips: Mage Hand, Thaumaturgy, Message
+Hexblade Spells: Blur, Branding Smite
+
+5th Level
+Class: Sorcerer 2
+Skill: Font of Magic
+1st Tier Spell: Cure Wounds
+
+6th Level
+Class: Sorcerer 3
+Metamagic: Quickened Spell, Heightened Spell
+2nd Tier Spell: Spiritual Weapon
+
+7th Level
+Class: Sorcerer 4
+Feat: Elven Accuracy (18 Cha)
+Fey Magic: Hunter's Mark
+Cantrip: Shape Water
+2nd Tier Spell: Aid
+
+8th Level
+Class: Sorcerer 5
+Skill: Magical Guidance
+3rd Tier Spell: Fireball
+
+9th Level
+Multiclass: Warlock 4
+ASI: +2 Cha (20 Cha)
+Cantrip: Thunderclap
+2nd Tier Spell: Hold Person
+
+10th Level
+Multiclass: Warlock 5
+3rd Tier Spell: Counterspell
+
+11th Level
+Class: Sorcerer 6
+Skill: Empowered Healing
+3rd Tier Spell: Hypnotic Pattern
+
+12th Level
+Class: Sorcerer 7
+4th Tier Spell: Banishment
+
+13th Level
+Class: Sorcerer 8
+Feat: Lucky
+4th Tier Spell: Death Ward
+
+14th Level
+Class: Sorcerer 9
+5th Tier Spell: Hold Monster
+
+15th Level
+Class: Sorcerer 10
+Metamagic: Twinned Spell
+5th Tier Spell: Scrying
+
+16th Level
+Class: Sorcerer 11
+6th Tier Spell: Disintegrate
+
+17th Level
+Class: Sorcerer 12
+Feat: War Caster
+
+18th Level
+Class: Sorcerer 13
+7th Tier Spell: Reverse Gravity
+
+19th Level
+Class: Sorcerer 14
+Skill: Angelic Form
+
+20th Level
+Class: Sorcerer 15
+8th Tier Spell: Holy Aura

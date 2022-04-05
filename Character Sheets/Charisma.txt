@@ -1,0 +1,75 @@
+Level 2
+Derpy - Deception +2, Persuasion +2
+Silver - Deception +2, Persuasion +4
+
+Level 3
+Derpy - Deception +2, Persuasion +2
+Silver - Deception +2, Persuasion +4
+
+Level 4
+Derpy - Deception +2, Persuasion +2
+Silver - Deception +3, Persuasion +5
+
+Level 5
+Derpy - Deception +3, Persuasion +3
+Silver - Deception +3, Persuasion +6
+
+Level 6
+Derpy - Deception +6, Persuasion +6
+Silver - Deception +3, Persuasion +6
+
+Level 7
+Derpy - Deception +6, Persuasion +6
+Silver - Deception +3, Persuasion +6
+
+Level 8
+Derpy - Deception +6, Persuasion +6
+Silver - Deception +4, Persuasion +6
+
+Level 9
+Derpy - Deception +8, Persuasion +8
+Silver - Deception +4, Persuasion +7
+
+Level 10
+Derpy - Deception +8, Persuasion +8
+Silver - Deception +4, Persuasion +7
+
+Level 11
+Derpy - Deception +8, Persuasion +8
+Silver - Deception +4, Persuasion +7
+
+Level 12
+Derpy - Deception +8, Persuasion +8
+Silver - Deception +5, Persuasion +8
+
+Level 13
+Derpy - Deception +10, Persuasion +10
+Silver - Deception +5, Persuasion +9
+
+Level 14
+Derpy - Deception +10, Persuasion +10
+Silver - Deception +5, Persuasion +9
+
+Level 15
+Derpy - Deception +10, Persuasion +10
+Silver - Deception +5, Persuasion +9
+
+Level 16
+Derpy - Deception +10, Persuasion +10
+Silver - Deception +5, Persuasion +9
+
+Level 17
+Derpy - Deception +12, Persuasion +12
+Silver - Deception +5, Persuasion +9
+
+Level 18
+Derpy - Deception +12, Persuasion +12
+Silver - Deception +5, Persuasion +9
+
+Level 19
+Derpy - Deception +12, Persuasion +12
+Silver - Deception +5, Persuasion +9
+
+Level 20
+Derpy - Deception +12, Persuasion +12
+Silver - Deception +5, Persuasion +9

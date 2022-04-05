@@ -1,0 +1,89 @@
+1st Level
+Race: Half-Orc
+Background: Acolyte
+Skill Proficiencies: Intimidation, Insight, Religion, Athletics, Persuasion
+Weapon Proficiencies: All Armor, Shields, Simple Weapons, Martial Weapons
+Equipment: 2 Greataxes, 5 Javelins, Explorers' Pack, Chainmail, Token of Fortuna, Spray-Painted Golden Statuette, Prayer Book, 5 Sticks of Incense, Vestments, Common Clothes, 15 GP
+Skills: Darkvision, Relentless Endurance, Savage Attacks, Divine Sense, Lay on Hands
+Languages: Common, Orc, Draconic, Goblin
+Feature: Shelter of the Faithful
+
+Level 2
+Fighting Style: Defense
+Skill: Divine Smite
+1st Tier Spells: Shield of Faith, Protection from Evil and Good, Compelled Duel
+
+Level 3
+Skill: Divine Health
+Sacred Oath: Vengeance
+Oath Spells: Bane, Hunter's Mark
+Channel Divinity: Abjure Enemy, Vow of Emnity
+
+Level 4
+Feat: Great Weapon Master
+1st Tier Spell: Bless
+
+Level 5
+Skill: Extra Attack
+Oath Spells: Hold Person, Misty Step
+Drop 1st Tier Spell: Bless
+2nd Tier Spell: Find Steed
+
+Level 6
+Skill: Aura of Protection
+2nd Tier Spell: Aid
+
+Level 7
+Skill: Relentless Avenger
+
+Level 8
+Feat: Heavy Armor Master (18 Str)
+2nd Tier Spell: Lesser Restoration
+
+Level 9
+Oath Spells: Haste, Protection from Energy
+Drop 2nd Tier Spell: Lesser Restoration
+3rd Tier Spell: Revify
+
+Level 10
+Skill: Aura of Courage
+3rd Tier Spell: Aura of Vitality
+
+Level 11
+Skill: Improved Divine Smite
+
+Level 12
+ASI: +2 Str (20 Str)
+2nd Tier Spell: Lesser Restoration
+
+Level 13
+Oath Spells: Banishment, Dimension Door
+Drop 2nd Tier Spell: Lesser Restoration
+4th Tier Spell: Death Ward
+
+Level 14
+Skill: Cleansing Touch
+4th Tier Spell: Find Greater Steed
+
+Level 15
+Skill: Soul of Vengeance
+
+Level 16
+Feat: Lucky
+2nd Tier Spell: Lesser Restoration
+
+Level 17
+Oath Spells: Hold Monster, Scrying
+Drop 2nd Tier Spell: Lesser Restoration
+5th Tier Spell: Raise Dead
+
+Level 18
+Skill: Aura Improvements
+5th Tier Spell: Destructive Wave
+
+Level 19
+AIS: +2 Con (16 Con)
+
+Level 20
+Skill: Avenging Angel
+5th Tier Spell: Banishing Smite

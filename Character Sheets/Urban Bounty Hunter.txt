@@ -1,0 +1,75 @@
+STR: 8
+DEX: 17
+CON: 16
+INT: 8
+WIS: 16
+CHA: 8
+
+1st Level
+Race: Half-Elf (Wood)
+Background: Urban Bounty Hunter
+Skill Proficiencies: Deception, Persuasion, Insight, Perception, Stealth
+Weapon Proficiencies: Simple Weapons, Martial Weapons, Light Armor, Medium Armor, Shields, Playing Cards
+Equipment: Longbow, 20 Arrows, 2 Shortswords, Leather Armor, Explorer's Pack, Dark Common Clothes, 20 GP
+Skills: Darkvision, Fey Ancestry, Mask of the Wild, Favored Foe
+Expertise: Perception
+Languages: Common, Elven, Draconic, Dwarven, Goblin
+Feature: Ears to the Ground
+
+2nd Level
+Fighting Style: Archery
+1st Tier Spells: Hunter's Mark, Ensnaring Strike
+
+3rd Level
+Ranger Conclave: Gloom Stalker
+Skills: Primeval Awareness, Dread Ambusher, Umbral Sight
+Conclave Spells: Speak With Animals, Disguise Self
+1st Tier Spell: Entangle
+
+4th Level
+Feat: Elven Accuracy (18 Dex)
+
+5th Level
+Skill: Extra Attack
+Conclave Spells: Bease Sense, Rope Trick
+2nd Tier Spell: Pass without Trace
+
+6th Level
+Multiclass: Rogue 1
+Skill: Sneak Attack
+Expertise: Stealth, Persuasion
+Language: Thieves' Cant
+
+7th Level
+Multiclass: Rogue 2
+Skill: Cunning Action
+
+8th Level
+Multiclass: Rogue 3
+Roguish Archetype: Scout
+Skills: Steady Aim, Skirmisher
+Expertise: Nature, Survival
+
+9th Level
+Multiclass: Rogue 4
+Feat: Sharpshooter
+
+10th Level
+Multiclass: Rogue 5
+Skill: Uncanny Dodge
+
+11th Level
+Multiclass: Rogue 6
+Expertise: Deception, Insight
+
+12th Level
+Multiclass: Rogue 7
+Skill: Evasion
+
+13th Level
+Multiclass: Rogue 8
+ASI: +2 Dex (20 Dex)
+
+14th Level
+Multiclass: Rogue 9
+Skill: Superior Mobility

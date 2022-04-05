@@ -1,0 +1,128 @@
+STR: 8
+DEX: 12
+CON: 16
+INT: 8
+WIS: 14
+CHA: 16
+
+1st Level
+Class: Cleric 1
+Race: Warforged
+Background: Far Traveler
+Skill Proficiencies: Persuasion, Religion, Insight, Perception
+Weapon Proficiencies: Simple Weapons, Martial Weapons, All Armor, Shields
+Equipment: Warhammer, Mace, Chain Mail, Shield, Gear Necklace, Explorer's Pack
+Skills: Constructed Resilience, Sentry's Rest, Integrated Protection, Eyes of Night, Vigilant Blessing
+Languages: Common, Dwarvish
+Feature: All Eyes on You
+Divine Domain: Twilight
+Cantrips: Toll the Dead, Guidance, Thaumaturgy
+1st Tier Spells: Bless, Guiding Bolt, Cure Wounds
+Domain Spells: Faerie Fire, Sleep
+
+2nd Level
+Class: Cleric 2
+1st Tier Spell: Healing Word
+Channel Divinity: Turn Undead, Twilight Sanctuary
+
+3rd Level
+Multiclass: Sorcerer 1
+Sorcerous Origin: Clockwork Soul
+Skill: Restore Balance
+Cantrips: Mage Hand, Minor Illusion, Message, Shape Water
+1st Tier Spells: Shield, Magic Missile
+Clockwork Spells: Absorb Elements, Armor of Agathys
+
+4th Level
+Multiclass: Warlock 1
+Otherworldy Patron: The Genie
+Skills: Genie's Vessel
+Cantrips: Eldritch Blast, Prestidigitation
+1st Tier Spells: Hex, Hellish Rebuke
+Genie Spells: Detect Good and Evil, Burning Hands
+
+5th Level
+Multiclass: Sorcerer 2
+Skill: Font of Magic
+1st Tier Spell: Mage Armor
+
+6th Level
+Multiclass: Warlock 2
+Eldritch Invocations: Agonizing Blast, Eldritch Mind
+1st Tier Spell: Unseen Servant
+
+7th Level
+Multiclass: Warlock 3
+Pact Boon: Pact of the Chain
+2nd Tier Spell: Mirror Image
+Pact Spell: Find Familiar
+Genie Spells: Phantasmal Force, Scorching Ray
+
+8th Level
+Multiclass: Warlock 4
+ASI: +2 Cha (18 Cha)
+Cantrip: Friends
+2nd Tier Spell: Misty Step
+
+9th Level
+Multiclass: Warlock 5
+Eldritch Invocation: Gift of the Ever-Living Ones
+3rd Tier Spell: Counterspell
+Genie Spells: Create Food and Water, Fireball
+
+10th Level
+Multiclass: Sorcerer 3
+Metamagic: Quickened Spell, Twinned Spell
+2nd Tier Spell: Maximilian's Earthen Grasp
+Clockwork Spells: Aid, Enhance Ability
+
+11th Level
+Multiclass: Warlock 6
+Skill: Elemental Gift
+3rd Tier Spell: Hypnotic Pattern
+
+12th Level
+Multiclass: Warlock 7
+Eldritch Invocation: Ghostly Gaze
+4th Tier Spell: Banishment
+Genie Spells: Phantasmal Killer, Fire Shield
+
+13th Level
+Multiclass: Warlock 8
+ASI: +2 Cha (20 Cha)
+4th Tier Spell: Shadow of Moil
+
+14th Level
+Multiclass: Warlock 9
+5th Tier Spell: Synaptic Static
+Genie Spells: Creation, Flame Strike
+
+15th Level
+Multiclass: Sorcerer 4
+ASI: +2 Con (18 Con)
+2nd Tier Spell: Invisibility
+
+16th Level
+Multiclass: Sorcerer 5
+3rd Tier Spell: Enemies Abound
+Clockwork Spells: Fly, Haste
+
+17th Level
+Multiclass: Sorcerer 6
+Skill: Bastion of Law
+3rd Tier Spell: Tongues
+
+18th Level
+Multiclass: Sorcerer 7
+4th Tier Spell: Wall of Fire
+CLockwork Spells: Death Ward, Summon Construct
+
+19th Level
+Multiclass: Sorcerer 8
+ASI: +2 Con (20 Con)
+4th Tier Spell: Polymorph
+
+20th Level
+Multiclass: Sorcerer 9
+5th Tier Spell: Hold Monster
+Clockwork Spells: Greater Restoration, Temporal Shunt

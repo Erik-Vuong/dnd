@@ -1,0 +1,74 @@
+1st Level
+Race: Half-Orc
+Background: Pirate
+Skill Proficiencies: Athletics, Perception, Insight, Intimidation, Survival
+Weapon Proficiencies: Martial Weapons, Simple Weapons, Heavy Armor, Medium Armor, Light Armor, Shields, Navigator's Tools, Vehicles (Water)
+Equipment: Chain Mail, Greataxe, Shield, 2 Handaxes, Explorer's Pack, Belaying Pin, 50 Feet of Silk Rope, Enemy's Rank Insignia, Common Clothes, 10 GP
+Skills: Darkvision, Relentless Endurance, Savage Attacks, Second Wind
+Fighting Style: Great Weapon Fighting
+Languages: Common, Orc
+Feature: Bad Reputation
+
+Level 2
+Skill: Action Surge
+
+Level 3
+Martial Archetype: Champion
+Skill: Improved Critical
+
+Level 4
+Feat: Great Weapon Master
+
+Level 5
+Skill: Extra Attack (x1)
+
+Level 6
+Multiclass: Barbarian 1
+Skills: Rage, Unarmored Defense
+
+Level 7
+Multiclass: Barbarian 2
+Skills: Danger Sense, Reckless Attack
+
+Level 8
+Multiclass: Barbarian 3
+Primal Path: Totem Warrior
+Totem Spirit: Bear
+Primal Knowledge: Animal Handling
+
+Level 9
+Multiclass: Fighter 6
+ASI: +2 Str (19 Str)
+
+Level 10
+Skill: Remarkable Athlete
+
+Level 11
+ASI: +1 Str, +1 Dex (20 Str, 14 Dex)
+
+Level 12
+Skill: Indomitable (x1)
+
+Level 13
+Additional Fighting Style: Defense
+
+Level 14
+Skill: Extra Attack (x2)
+
+Level 15
+ASI: +2 Con (18 Con)
+
+Level 16
+Skill: Indomitable (x2)
+
+Level 17
+Feat: +2 Con (20 Con)
+
+Level 18
+Skill: Superior Critical
+
+Level 19
+Feat: Lucky
+
+Level 20
+Skill: Action Surge (x2), Indomitable (x3)

@@ -1,0 +1,90 @@
+1st Level
+Race: Half Elf
+Background: Spy
+Skill Proficiencies: Deception, Stealth, Perception, Persuasion, Insight
+Weapon Proficiencies: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords, Light Armor, Lute, Lyre, Viol, Card Set, Thieves' Tools
+Equipment: Rapier, Lute, Leather Armor, Dagger, Entertainer's Pack, Crowbar, Dark Common Clothes, 15 GP
+Skills: Darkvision, Fey Ancestry, Drow Magic, Bardic Inspiration (d6)
+Languages: Common, Elven, Draconic
+Feature: Criminal Contact
+Cantrips: Vicious Mockery, Minor Illusion
+1st Tier Spells: Dissonant Whispers, Silvery Barbs, Healing Word, Faerie Fire
+
+2nd Level
+Skills: Jack of All Trades, Song of Rest (d6), Magical Inspiration
+1st Tier Spell: Detect Magic
+
+3rd Level
+Bard College: Eloquence
+Skills: Silver Tongue, Unsettling Words
+Expertise: Perception, Persuasion
+2nd Tier Spell: Heat Metal
+
+4th Level
+Feat: Actor (18 Cha)
+Cantrip: Prestidigitation
+2nd Tier Spell: Invisibility
+
+5th Level
+Skill: Bardic Inspiration (d8), Font of Inspiration
+3rd Tier Spell: Hypnotic Pattern
+
+6th Level
+Skills: Countercharm, Unfailing Inspiration, Universal Speech
+3rd Tier Spell: Dispell Magic
+
+7th Level
+4th Tier Spell: Phantasmal Killer
+
+8th Level
+ASI: +2 Cha (20 Cha)
+4th Tier Spell: Greater Invisibility
+
+9th Level 
+Skill: Song of Rest (d8)
+5th Tier Spell: Hold Monster
+
+10th Level
+Skill: Bardic Inspiration (d10)
+Expertise: Deception, Stealth
+Magical Secrets: Counterspell, Wall of Force
+Cantrip: Mage Hand
+5th Tier Spell: Animate Object
+
+11th Level
+6th Tier Spell: Mass Suggestion
+
+12th Level
+Feat: Lucky
+6th Tier Spell: True Seeing
+
+13th Level
+Skill: Song of Rest (d10)
+7th Tier Spell: Forcecage
+
+14th Level
+Skill: Infectious Inspiration
+Magical Secrets: Disintegrate, Chain Lightning
+7th Tier Spell: Teleport
+
+15th Level
+Skill: Bardic Inspiration (d12)
+8th Tier Spell: Dominate Monster
+
+16th Level
+ASI: +2 Con (16 Con)
+8th Tier Spell: Glibness
+
+17th Level
+Skill: Song of Rest (d12)
+9th Tier Spell: Foresight
+
+18th Level
+Magical Secrets: Wish, Meteor Swarm
+9th Tier Spells: Psychic Scream, True Polymorph
+
+19th Level
+ASI: +2 Con (18 Con)
+
+20th Level
+Skill: Superior Inspiration

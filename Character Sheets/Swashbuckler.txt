@@ -1,0 +1,78 @@
+STR: 10
+DEX: 18
+CON: 14
+INT: 10
+WIS: 12
+CHA: 14
+
+1st Level
+Race: Variant Human (Custom Lineage)
+Background: Pirate
+Skill Proficiencies: Intimidation, Athletics, Perception, Deception, Persuasion, Stealth, Sleight of Hand
+Weapon Proficiencies: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords, Light Armor, Thieves' Tools, Navigator's Tools, Vehicles (Water)
+Equipment: Rapier, 2 Daggers, Shortbow, 20 Arrows, Leather Armor, Burglar's Pack, Thieves' Tools, Belaying Pin, Silk Rope, Lucky Charm, Common Clothes, 10 GP
+Expertise: Perception, Persuasion
+Skills: Darkvision, Sneak Attack 
+Languages: Common, Thieves' Cant
+Feature: Bad Reputation
+Feat: Magic Initiate
+Cantrips: Booming Blade, Green-Flame Blade
+1st Tier Spell: Find Familiar
+
+2nd Level
+Skill: Cunning Action
+
+3rd Level
+Roguish Archetype: Swashbuckler
+Skills: Fancy Footwork, Rakish Audacity, Steady Aim
+
+4th Level
+ASI: +2 Dex (20 Dex)
+
+5th Level
+Skill: Uncanny Dodge
+
+6th Level
+Expertise: Deception, Intimidation
+
+7th Level
+Skill: Evasion
+
+8th Level
+Feat: Alert
+
+9th Level
+Skill: Panache
+
+10th Level
+Feat: Lucky
+
+11th Level
+Skill: Reliable Talent
+
+12th Level
+Feat: Tough
+
+13th Level
+Skill: Elegant Maneuver
+
+14th Level
+Skill: Blindsense
+
+15th Level
+Skill: Slippery Mind
+
+16th Level
+ASI: +2 Con (18 Con)
+
+17th Level
+Skill: Master Duelist
+
+18th Level
+Skill: Elusive
+
+19th Level
+ASI: +2 Cha (16 Cha)
+
+20th Level
+Skill: Stroke of Luck

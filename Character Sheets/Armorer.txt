@@ -1,0 +1,126 @@
+Infused Objects
+2nd Level - Shield (Enhanced Defense), Bag of Holding (Replica)
+3rd Level - Armor (Mind Sharpener), Bag of Holding (Replica)
+6th Level - Shield (Enhanced Defense), Armor (Mind Sharpener), Bag of Holding (Replica)
+9th Level - Helmet (Mind Sharpener), Chestplate (Enhanced Defense), Gauntlet (Enhanced Weapon), Bag of Holding (Replica), Cloak of Elvenkind (Replica)
+10th Level - Helmet (Mind Sharpener), Chestplate (Enhanced Defense), Gauntlet (Enhanced Weapon), Bag of Holding (Replica), Cloak of Elvenkind (Replica), Cloak of Protection (Replica)
+14th Level - Helmet (Mind Sharpener), Chestplate (Enhanced Defense), Gauntlet (Enhanced Weapon), Bag of Holding (Replica), Cloak of Elvenkind/the Bat (Replica), Cloak of Protection (Replica), Ring of Protection (Replica)
+18th Level - Helmet (Mind Sharpener), Chestplate (Resistant Armor), Shield (Enhanced Defense), Gauntlet (Enhanced Weapon), Bag of Holding (Replica), Cloak of Elvenkind/the Bat (Replica), Cloak of Protection (Replica), Ring of Protection (Replica)
+
+Armor Models
+Level 1 - Gremlin Mark I - Exoskeleton, Extendable Items, Forcefield Generator, Scanner, Healing Syringe, Psychic Disruptor, Hologram Generator
+Level 2 - Gremlin Mark II - Energy Shield
+Level 3 - Gremlin Mark III - No Energy Shield, Electric Gauntlets, Enhanced Forcefield Generator, Improved Psychic Disruptor, Missile Launcher, Hydraulic Legs
+Level 4 - Gremlin Mark IV - Acid Launcher, Momentum Stopper
+Level 5 - Gremlin Mark V - No Acid Launcher, No Momentum Stopper, Hydraulic Fists, Enhanced Hologram Generator, Sonic Wave Generator, Booster Shots, Electromagnetic Wave Generator
+Level 6 - Gremlin Mark VI - Web Shooter, Energy Shield
+Level 7 - Gremlin Mark VII - Psychic Enhancer
+Level 8 - Gremlin Mark VIII - Booster Rockets, Variant Healing Syringe
+Level 9 - Gremlin Mark IX - No Booster Rockets, No Variant Healing Syringe, Energy Armor, Energy Gauntlets, Enhanced Psychic Disruptor, Lightning Generator, Magic Disruptor, Overdrive Button
+Level 10 - Gremlin Mark X - Nanomachines
+Level 12 - Gremlin Mark XI - Enhanced Energy Shield, Robot Companion/Sentry Turret (Clank)
+Level 13 - Gremlin Mark XII - Nuclear Reactor, Cryogenic Tank, Cloaking Device
+Level 14 - Gremlin Mark XIII - Portable Forcefield Generator
+Level 15 - Gremlin Mark XIV - Gravitational Field Generator/Tractor Beam
+Level 16 - Gremlin Mark XV - Flying Drone
+Level 17 - Gremlin Mark XVI - Transdimensional Ray, Enhanced Portable Forcefield
+Level 18 - Gremlin Mark XVII - Attack Drones
+Level 20 - Gremlin Mark XVIII - Rocket Gauntlet
+
+STR: 12
+DEX: 14
+CON: 16
+INT: 19
+WIS: 13
+CHA: 12
+
+1st Level
+Race: Forest Gnome
+Background: Outlander
+Skill Proficiencies: Athletics, Survival, Investigation, Perception
+Weapon Proficiencies: Simple Weapons, Light Armor, Medium Armor, Shields, Thieves' Tools, Tinker's Tools, Alchemist's Supplies
+Equipment: 2 Handaxes, Light Crossbow, 20 Bolts, Scale Mail, Thieves' Tools, Dungeoneer's Pack, Staff, Hunting Trap, Animal Trophy, Traveler's Clothes, 10 GP
+Skills: Darkvision, Gnome Cunning, Natural Illusionist, Speak with Small Beasts, Magical Tinkering
+Languages: Common, Gnomish, Elvish
+Feature: Wanderer
+Cantrips: Booming Blade, Sword Burst
+1st Tier Spells: Absorb Elements, Faerie Fire, Cure Wounds, Sanctuary
+
+2nd Level
+Infusions: Enhanced Arcane Focus, Enhanced Defense, Returning Weapon, Replicate Magic Item
+
+3rd Level
+Artificer Specialist: Armorer
+Skills: The Right Tool for the Job, Tools for the Trade, Arcane Armor, Armor Model
+Armorer Spells: Magic Missile, Thunderwave
+
+4th Level
+Feat: Fey Touched (20 Int, Hex)
+1st Tier Spells: Tasha's Caustic Brew, Feather Fall
+
+5th Level
+Skill: Extra Attack
+Armorer Spells: Mirror Image, Shatter
+Drop 1st Tier Spells: Tasha's Caustic Brew, Feather Fall
+2nd Tier Spells: Aid, Heat Metal
+
+6th Level
+Skill: Tool Expertise
+2nd Tier Spell: Web
+Infusions: Radiant Weapon, Resistant Armor
+
+7th Level
+Skill: Flash of Genius
+
+8th Level
+Feat: Shield Master
+2nd Tier Spells: Levitate, Lesser Restoration
+
+9th Level
+Skill: Armor Modifications
+Armorer Spells: Hypnotic Pattern, Lightning Bolt
+Drop 2nd Tier Spells: Levitate, Lesser Restoration
+3rd Tier Spells: Dispell Magic, Haste
+
+10th Level
+Skill: Magic Item Adept
+3rd Tier Spell: Revify
+Drop Infusion: Returning Weapon
+Infusions: Enhanced Weapon, Spell-Refueling Ring, Helm of Awareness
+
+11th Level
+Skill: Spell Storing Item
+
+12th Level
+ASI: +2 Con (18 Con)
+3rd Tier Spell: Tiny Servant
+
+13th Level
+Armorer Spells: Fire Shield, Greater Invisibility
+
+14th Level
+Skill: Magic Item Savant
+4th Tier Spell: Otiluke’s Resilient Sphere
+Infusions: Replicate Magic Item, Repulsion Shield
+
+15th Level
+Skill: Perfected Armor
+
+16th Level
+ASI: +2 Con (20 Con)
+4th Tier Spell: Arcane Eye
+
+17th Level
+Armorer Spells: Passwall, Wall of Force
+
+18th Level
+Skill: Magic Item Master
+5th Tier Spell: Animate Objects
+Infusions: Repeating Shot, Mind Sharpener
+
+19th Level
+Feat: Lucky
+
+20th Level
+Skill: Soul of Artifice
+5th Tier Spell: Bigby's Hand

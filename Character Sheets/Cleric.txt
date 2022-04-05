@@ -1,0 +1,90 @@
+1st Level
+Race: Hill Dwarf
+Background: Faction Agent
+Skill Proficiencies: Insight, Medicine, Religion, Perception
+Weapon Proficiencies: Simple Weapons, Battleaxe, Handaze, Light Hammer, Warhammer, Light Armor, Medium Armor, Heavy Armor, Shields, Mason's Tools
+Equipment: Warhammer, Chain Mail, Hand Axe, Explorer's Pack, Shield, Holy Symbol, Faction Emblem, Factior Text, Common Clothes, 15 GP
+Skills: Darkvision, Dwarven Resilience, Dwarven Toughness, Stonecunning, Disciple of Life
+Languages: Common, Dwarvish, Elvish, Goblin
+Feature: Safe Haven
+Divine Domain: Life Domain
+Domain Spells: Bless, Cure Wounds
+Cantrips: Guidance, Sacred Flame, Word of Radiance, Sanctuary, Detect Magic
+1st Tier Spells:
+
+2nd Level
+Skill: Channel Divinity (x1), Harness Divine Divinity
+Divinity: Turn Undead, Preserve Life
+1st Tier Spell: Protection from Good and Evil
+
+3rd Level
+Domain Spells: Lesser Restoration, Spiritual Weapon
+2nd Tier Spell: Aid
+
+4th Level
+Feat: War Caster
+2nd Tier Spell: Silence
+
+5th Level
+Skill: Destroy Undead (CR 1/2)
+Domain Spells: Beacon of Hope, Revivify
+3rd Tier Spell: Bestow Curse
+
+6th Level
+Skill: Channel Divinity (x2), Blessed Healer
+3rd Tier Spell: Dispel Magic
+
+7th Level
+Domain Spells: Death Ward, Guardian of Faith
+4th Tier Spell: Banishment
+
+8th Level
+ASI: +2 Wis (18 Wis)
+Skill: Destroy Undead (CR 1), Divine Strike
+4th Tier Spell: Stone Shape, Divination
+
+9th Level
+Domain Spells: Mass Cure Wounds, Raise Dead
+5th Tier Spell: Commune
+
+10th Level
+Skill: Divine Intervention
+5th Tier Spell: Greater Restoration
+
+11th Level
+Skill: Destroy Undead (CR 2)
+6th Tier Spell: Heal
+
+12th Level
+ASI: +1 Str, +1 Con (15 Str, 18 Con)
+6th Tier Spell: Word of Recall
+
+13th Level
+7th Tier Spell: Plane Shift
+
+14th Level
+Skill: Destroy Undead (CR 3)
+7th Tier Spell: Divine Word
+
+15th Level
+8th Tier Spell: Holy Aura
+
+16th Level
+ASI: +2 Wis (20 Wis)
+8th Tier Spell: Antimagic Field, Etherealness
+
+17th Level
+Skill: Destroy Undead (CR 4), Supreme Healing
+9th Tier Spell: Mass Heal
+
+18th Level
+Skill: Channel Divinity (x3)
+9th Tier Spell: Power World Heal
+
+19th Level
+ASI: +2 Con (20 Con)
+9th Tier Spell: Astral Projection
+
+20th Level
+Skill: Improved Divine Intervention
+9th Tier Spell: Gate

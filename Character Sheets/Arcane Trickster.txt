@@ -1,0 +1,82 @@
+1st Level
+Race: Wood Elf
+Background: Criminal
+Skill Proficiencies: Perception, Deception, Stealth, Athletics, Insight, Investigation, Persuasion
+Weapon Proficiencies: Shortsword, Longsword, Shortbow, Longbow, Light Armor, Simple Weapons, Rapier, Hand Crossbow, Thieves' Tools, Deck of Cards
+Equipment: Shortsword, Shortbow, Burglars' Pack, Leather Armor, 2 Daggers, Thieves' Tools, 15 GP
+Expertise: Perception, Stealth
+Skills: Darkvision, Fey Ancestry, Trance, Fleet of Foot, Mask of the Wild, Sneak Attack
+Languages: Human, Elven, Thieves' Cant
+Feature: Criminal Contact
+
+2nd Level
+Skill: Cunning Action
+
+3rd Level
+Rogueish Archetype: Arcane Trickster
+Skill: Steady Aim
+Cantrips: Mage Hand Legerdemain, Minor Illusion, Booming Blade
+1st Tier Spells: Find Familiar, Silent Image, Tasha's Hideous Laughter
+
+4th Level
+Feat: Elven Accuracy (18 Dex)
+1st Tier Spell: Charm Person
+
+5th Level
+Skill: Uncanny Dodge
+
+6th Level
+Expertise: Deception, Persuasion
+
+7th Level
+Skill: Evasion
+2nd Tier Spell: Invisibility, Shadow Blade
+Drop 1st Tier Spell: Charm Person
+
+8th Level
+2nd Tier Spell: Misty Step
+ASI: +2 Dex (20 Dex)
+
+9th Level
+Skill: Magical Ambush
+
+10th Level
+Cantrip: Message
+2nd Tier Spell: Mirror Image
+Feat: Mobile
+
+11th Level
+Skill: Reliable Talent
+2nd Tier Spell: Hold Person
+
+12th Level
+Feat: Lucky
+
+13th Level
+Skill: Versatile Trickster
+3rd Tier Spell: Major Image
+
+14th Level
+Skill: Blindsense
+3rd Tier Spell: Haste
+
+15th Level
+Skill: Slippery Mind
+
+16th Level
+3rd Tier Spell: Hypnotic Pattern
+ASI: +2 Con (Con 16)
+
+17th Level
+Skill: Spell Thief
+
+18th Level
+Skill: Elusive
+
+19th Level
+4th Tier Spell: Greater Invisibility
+ASI: +2 Con (Con 18)
+
+20th Level
+4th Tier Spell: Evard's Black Tentacles
+Skill: Stroke of Luck

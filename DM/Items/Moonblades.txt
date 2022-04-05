@@ -1,0 +1,68 @@
+Royal Moonblade
++3 Longsword
+Vorpal Sword
+Defender
+Speedy
+Hardy x2
+Resuscitator
+Beckoner
+Fastidious
+Suppressible
+
+Warrior Moonblade
++3 Longsword
+Hardy
+Unwavering
+Expanded Crit Range
+
+Forgotten Moonblade
++1 Longsword
+Elfshadow
+
+Bloodied Moonblade
++3 Longsword
+Vorpal Sword
+Expanded Crit Range
+Cowardly
+Devoted
+
+Vengeance Moonblade
++3 Longsword
+Restful
+Bulwark
+Resuscitator
+Expanded Crit Range
+
+Champion Moonblade
++2 Longsword
+Expanded Crit Range
+Bulwark
+Devoted
+
+Dragonbane Moonblade
++3 Longsword
+Vorpal Sword
+Favored Enemy
+Cowardly
+Artful
+
+Duelist Moonblade
++1 Longsword
+Expanded Crit Range
+Speedy
+
+Assassin Moonblade
++3 Longsword
+Vorpal Sword
+Speedy
+Fastidious
+Enigmatic
+
+Shadowed Moonblade
++2 Longsword
+Expanded Crit Range
+Defender
+Elfshadow
+Devoted
+Gloomsight
+Speedy

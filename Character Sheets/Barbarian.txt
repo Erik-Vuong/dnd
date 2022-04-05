@@ -1,0 +1,76 @@
+STR: 18
+DEX: 14
+CON: 15
+INT: 11
+WIS: 13
+CHA: 12
+
+1st Level
+Race: Half-Orc
+Background: Folk Hero
+Skill Proficiencies: Intimidation, Animal Handling, Survival, Athletics, Perception
+Weapon Proficiencies: Light Armor, Medium Armor, Shields, Simple Weapons, Martial Weapons, Woodcarver's Tools, Vehicles (Land)
+Equipment: Greataxe, 2 Handaxes, Explorer's Pack, 4 Javelins, Woodcarver's Tools, Shovel, Iron Pot, Common Clothes, 10 GP
+Skills: Darkvision, Relentless Endurance, Savage Attacks, Rage, Unarmored Defense
+Languages: Common, Orc
+Feature: Rustic Hospitality
+
+2nd Level
+Skills: Reckless Attack, Danger Sense
+
+3rd Level
+Primal Path: Totem Warrior
+Primal Knowledge: Nature
+Skill: Spirit Seeker
+Totem Spirit: Bear
+
+4th Level
+Feat: Great Weapon Master
+
+5th Level
+Skills: Extra Attack, Fast Movement
+
+6th Level
+Aspect of the Beast: Eagle
+
+7th Level
+Skills: Feral Instinct, Instinctive Pounce
+
+8th Level
+ASI: +2 Str (20 Str)
+
+9th Level
+Skill: Brutal Critical (x1)
+
+10th Level
+Skill: Spirit Walker
+
+11th Level
+Skill: Relentless Rage
+
+12th Level
+Feat: Orcish Fury (16 Con)
+
+13th Level
+Skill: Brutal Critical (x2)
+
+14th Level
+Totemic Attunement: Tiger
+
+15th Level
+Skill: Persistent Rage
+
+16th Level
+ASI: +2 Con (18 Con)
+
+17th Level
+Skill: Brutal Critical (x3)
+
+18th Level
+Skill: Indomitable Might
+
+19th Level
+ASI: +2 Con (20 Con)
+
+20th Level
+Skill: Primal Champion (24 Str, 24 Con)

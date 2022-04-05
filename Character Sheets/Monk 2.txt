@@ -1,0 +1,69 @@
+1st Level
+Race: Variant Human (Custom Lineage)
+Background: Urchin
+Skill Proficiencies: Acrobatics, Insight, Stealth, Sleight of Hand
+Weapon Proficiencies: Simple Weapons, Zither, Disguise Kit, Thieves' Tools
+Equipment: Quarterstaff, Explorer's Pack, 10 Darts, Small Knife, Map of Hometown, Pet Mouse, Token of Parents, Common Clothes, 10 GP
+Skills: Darkvision, Unarmored Defense, Martial Arts
+Languages: Common
+Feature: City Streets
+Feat: Fey Touched (16 Wis, Hunters' Mark)
+
+2nd Level
+Skills: Ki, Unarmored Movement
+
+3rd Level
+Monastic Tradtion: Way of the Long Death
+Skills: Deflect Missiles, Touch of Death, Ki-Fueled Attack
+
+4th Level
+ASI: +1 Dex, +1 Con (18 Dex, 16 Con)
+Skills: Slow Fall, Quickened Healing
+
+5th Level
+Skills: Extra Attack, Stunning Strike, Focused Aim
+
+6th Level
+Skill: Ki-Empowered Strikes, Hour of Reaping
+
+7th Level
+Skill: Evasion, Stillness of Mind
+
+8th Level
+ASI: +2 Dex (20 Dex)
+
+9th Level
+Skill: Unarmored Movement Improvement
+
+10th Level
+Skill: Purity of Body
+
+11th Level
+Skill: Mastery of Death
+
+12th Level
+ASI: +2 Wis (18 Wis)
+
+13th Level
+Skill: Tongue of the Sun and Moon
+
+14th Level
+Skill: Diamond Soul
+
+15th Level
+Skill: Timeless Body
+
+16th Level
+ASI: +2 Wis (20 Wis)
+
+17th Level
+Skill: Touch of Death
+
+18th Level
+Skill: Empty Body
+
+19th Level
+ASI: +2 Con (18 Con)
+
+20th Level
+Skill: Perfect Self

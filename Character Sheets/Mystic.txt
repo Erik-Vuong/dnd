@@ -1,0 +1,86 @@
+STR: 10
+DEX: 14
+CON: 14
+INT: 19
+WIS: 12
+CHA: 10
+
+1st Level
+Race: Variant Human
+Background: Far Traveler
+Skill Proficiencies: Insight, Perception, Arcana, History
+Weapon Proficiencies: Simple Weapons, Light Armor, Harp
+Equipment: Mind Lash, Studded Leather Armor, Explorer's Pack, Traveler's Clothes, Harp, Poorly-Wrought Map, 10 GP Necklace, 30 GP
+Skill: Darkvision, Immortal Durability
+Languages: Common, Deep Speech
+Feature: All Eyes on You
+Feat: Fey Touched (18 Int, Silvery Barbs)
+Mystic Order: The Immortal
+Psionic Talent: Mind Thrust
+Psionic Disciplines: Precognition, Bestial Form, Iron Durability
+
+2nd Level
+Skill: Mystical Recovery, Telepathy
+
+3rd Level
+Skill: Psionic Resilience
+Psionic Talent: Mystic Charm
+Psionic Discipline: Mastery of Light and Darkness
+
+4th Level
+Skill: Strength of Mind
+ASI: +2 Int (20 Int)
+
+5th Level
+Psionic Discipline: Psychic Assault
+
+6th Level
+Skill: Surge of Health
+
+7th Level
+Psionic Discipline: Mastery of Force
+
+8th Level
+Skill: Potent Psionics (1d8)
+Feat: Magic Initiate
+Cantrips: Mage Hand, Prestidigitation
+1st Tier Spell: Find Familiar
+
+9th Level
+Psionic Discipline: Aura Sight
+
+10th Level
+Skill: Consumptive Power
+Psionic Talent: Delusion
+
+11th Level
+Skill: Psionic Mastery (9x1)
+
+12th Level
+Psionic Discipline: Mantle of Awe
+Feat: Lucky
+
+13th Level
+Psionic Mastery (9x2)
+
+14th Level
+Skills: Immortal Will, Potent Psionics (2d8)
+
+15th Level
+Skill: Psionic Mastery (11x3)
+Psionic Discipline: Nomadic Mind
+
+16th  Level
+Feat: Tough
+
+17th Level
+Psionic Talent: Psychic Hammer
+
+18th Level
+Psionic Discipline: Psionic Restoration
+
+19th Level
+ASI: +2 Dex (16 Dex)
+
+20th Level
+Skill: Psionic Body

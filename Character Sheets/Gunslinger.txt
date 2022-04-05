@@ -1,0 +1,105 @@
+STR: 11
+DEX: 19
+CON: 14
+INT: 9
+WIS: 16
+CHA: 11
+
+1st Level
+Race: Lotusden Halfling
+Background: Soldier (Scout)
+Skill Proficiencies: Stealth, Survival, Perception, Investigation
+Weapon Proficiencies: Simple Weapons, Martial Weapons, All Armor, Shields
+Equipment: Rapier, 2 Handaxes, Longbow, 20 Arrows, Shield, Leather Armor, Explorer's Pack, Scout Insignia, Enemy Trophy, Deck of Cards, Common Clothes, 10 GP
+Skills: Lucky, Brave, Nimble, Second Wind
+Languages: Common, Halfling
+Feature: Military Rank
+Lotusden Spell: Druidcraft
+Fighting Style: Archery
+
+2nd Level
+Skill: Action Surge
+
+3rd Level
+Martial Archetype: Gunslinger
+Lotusden Spell: Entangle
+Skills: Firearm Profiency, Gunsmith
+Trickshots: Dazing Shot, Deadeye Shot
+
+4th Level
+ASI: +1 Dex, +1 Wis (20 Dex, 17 Wis)
+
+5th Level
+Skill: Extra Attack
+Lotusden Spell: Spike Growth
+
+6th Level
+Feat: Fey Touched (18 Wis, Hex)
+
+7th Level
+Skill: Quickdraw
+Trickshot: Violent Shot
+
+8th Level
+Multiclass: Ranger 1
+Skill: Favored Foe
+Expertise: Perception
+Languages: Elven, Draconic
+
+9th Level
+Multiclass: Ranger 2
+Fighting Style: Close Quarters Shooter
+1st Tier Spells: Hunter's Mark, Absorb Elements
+
+10th Level
+Multiclass: Ranger 3
+Ranger Conclave: Gloom Stalker Conclave
+Skills: Dread Ambusher, Umbral Sight
+Conclave Spells: Speak with Animals, Disguise Self
+1st Tier Spell: Ensnaring Strike
+
+11th Level
+Multiclass: Ranger 4
+ASI: +2 Wis (20 Wis)
+
+12th Level
+Multiclass: Ranger 5
+Conclave Spells: Beast Sense, Rope Trick
+2nd Tier Spells: Enhance Ability
+
+13th Level
+Multiclass: Ranger 6
+Skill: Favored Foe Improvement, Roving
+
+14th Level
+Multiclass: Ranger 7
+Skill: Iron Mind
+2nd Tier Spell: Pass Without Trace
+
+15th Level
+Multiclass: Ranger 8
+Feat: Lucky
+Skill: Land's Stride
+
+16th Level
+Multiclass: Ranger 9
+Conclave Spells: Speak with Plants, Fear
+3rd Tier Spells: Protection from Energy
+
+17th Level
+Multiclass: Ranger 10
+Skills: Tireless, Nature's Veil
+
+18th Level
+Multiclass: Ranger 11
+Skill: Stalker's Flurry
+2nd Tier Spell: Aid
+
+19th Level
+Multiclass: Ranger 12
+Feat: Tough
+
+20th Level
+Multiclass: Ranger 13
+Conclave Spells: Locate Creature, Greater Invisibility
+4th Tier Spell: Freedom of Movement

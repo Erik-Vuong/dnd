@@ -1,0 +1,26 @@
+1. Fool - Roll three more cards, all are good/bad
+2. Magician - Cast 6th level spell or have one cast on you
+3. High Priestess - Gain/lose proficiency in one skill
+4. Empress - Advantage/Disadvantage on Persuasion checks
+5. Emperor - Advantage/Disadvantage on Intimidation checks
+6. Hierophant - Ask the gods a question or gain long-term madness
+7. Lovers - An enemy befriends you or a friend betrays you
+8. Chariot - Any three rolls have advantage/disadvantage
+9. Strength - Increase/decrease lowest stat by 1
+10. Hermit - You recieve enlightenment or gain long-term madness
+11. Wheel of Fortune - Roll a good/bad card, effect is doubled
+12. Hanged Man - You will overcome a weakness or increase its effect
+13. Death - Enemy revives or you can revive from death once at half HP
+14. Temperance - Add or subtract one roll of your hit dice from your max HP
+15. Devil - Evil god gains interest in you/Evil doppelganger
+16. Tower - A disaster happens or you gain the ability to stop one
+17. Moon - Gain a legendary save or gain long-term madness
+18. Sun - Your lifespan is doubled or your current age is halved
+19. Judgement - Gain a blessing/curse, potency based on alignment deeds
+20. World - One goal/issue is guaranteed to finish
+
+Minor Buffs - 6/20
+Combat - 4/20
+Story - 6/20
+Blessing - 2/20
+Wild Card - 2/20

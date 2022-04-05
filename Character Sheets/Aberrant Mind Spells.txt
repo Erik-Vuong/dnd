@@ -1,0 +1,45 @@
+Psionic Spells
+Cantrips - Mind Sliver
+1st Level - Silvery Barbs, Charm Person
+2nd Level - Gift of Gab, Detect Thoughts
+3rd Level - Incite Greed, Fast Friends
+4th Level - Raulothim's Psychic Lance, Summon Aberration
+5th Level - Geas, Modify Memory
+
+Cantrips - Fire Bolt, Minor Illusion, Prestidigitation, Friends, Control Flames, Mage Hand, Message
+1st Level - Mage Armor, Shield 
+2nd Level - Mirror Image, Suggestion, Tasha's Mind Whip, Invisibility, Misty Step
+3rd Level - Fireball, Tongues
+4th Level - Greater Invisibility
+5th Level - Synaptic Static, Seeming
+6th Level - Mass Suggestion
+7th Level - Plane Shift
+8th Level - Dominate Monster
+9th Level - Wish
+
+Sorcery Point Conversion
+1st Level - 2
+2nd Level - 3
+3rd Level - 5
+4th Level - 6
+5th Level - 7
+
+Spell Slots (Regular)
+1st Level - 4
+2nd Level - 3
+3rd Level - 3
+4th Level - 0
+5th Level - 3
+6th Level - 2
+7th Level - 2
+8th Level - 1
+9th Level - 1
+
+Sorcery Points (Regular) - 38
+Sorcery Points (Town) - 91
+
+Metamagic
+Extended Spell - 1
+Quickened Spell - 2
+Empowered Spell - 1
+Subtle Spell - 1

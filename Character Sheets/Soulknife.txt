@@ -1,0 +1,75 @@
+STR: 8
+DEX: 17
+CON: 16
+INT: 8
+WIS: 14
+CHA: 12
+
+1st Level
+Race: Wood Elf
+Background: Criminal
+Skill Proficiencies: Perception, Stealth, Deception, Persuasion, Insight, Intimidation, Investigation
+Weapon Proficiencies: Simple Weapons, Hand Crossbows, Longswords, Shortbow, Longbow, Rapiers, Shortswords, Light Armor, Thieves' Tools, Navigator's Tools, Vehicles (Water)
+Equipment: Rapier, 2 Daggers, Shortbow, 20 Arrows, Leather Armor, Explorer's Pack, Thieves' Tools, Belaying Pin, Silk Rope, Lucky Charm, Common Clothes, 10 GP
+Skills: Darkvision, Fey Ancestry, Trance, Fleet of Foot, Mask of the Wild, Sneak Attack
+Expertise: Perception, Persuasion
+Languages: Common, Elven, Thieves' Cant
+Feature: Criminal Contact
+
+2nd Level
+Skill: Cunning Action
+
+3rd Level
+Roguish Archetype: Soulknife
+Skills: Psionic Power, Psychic Blades, Steady Aim
+
+4th Level
+Feat: Mobile
+
+5th Level
+Skill: Uncanny Dodge
+
+6th Level
+Expertise: Stealth, Perception
+
+7th Level
+Skill: Evasion
+
+8th Level
+Feat: Elven Accuracy (18 Dex)
+
+9th Level
+Skill: Soul Blades
+
+10th Level
+ASI: +2 Dex (20 Dex)
+
+11th Level
+Skill: Reliable Talent
+
+12th Level
+Feat: Lucky
+
+13th Level
+Skill: Psychic Veil
+
+14th Level
+Skill: Blindsense
+
+15th Level
+Skill: Slippery Mind
+
+16th Level
+Feat: Tough
+
+17th Level
+Skill: Rend Mind
+
+18th Level
+Skill: Elusive
+
+19th Level
+ASI: +2 Con (18 Con)
+
+20th Level
+Skill: Stroke of Luck

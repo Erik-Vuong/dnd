@@ -1,0 +1,116 @@
+STR: 16
+DEX: 8
+CON: 15
+INT: 8
+WIS: 8
+CHA: 17
+
+1st Level
+Class: Paladin 1
+Race: Aasimar (Fallen)
+Background: Haunted One
+Skill Proficiencies: Intimidation, Athletics, Persuasion, Religion
+Weapon Proficiencies: Simple Weapons, Martial Weapons, All Armor, Shields
+Equipment: 2 Greatswords, 5 Javelins, Chain Mail, Holy Symbol, Explorer's Pack, Monster Hunter's Pack, Trinket, Common Clothes, 1 SP
+Skills: Darkvision, Celestial Resistance, Healing Hands, Divine Sense, Lay on Hands
+Languages: Common, Celestial, Primordial
+Feature: Heart of Darkness
+Cantrip: Light
+
+2nd Level
+Class: Paladin 2
+Fighting Style: Defense
+Skill: Divine Smite
+1st Tier Spells: Bless, Shield of Faith, Compelled Duel, Cure Wounds
+
+3rd Level
+Class: Paladin 3
+Skills: Divine Health, Necrotic Shroud
+Sacred Oath: Oath of Conquest
+Channel Divinity: Conquering Presence, Guided Strike
+Oath Spells: Armor of Agathys, Command
+
+4th Level
+Class: Paladin 4
+ASI: +1 Con, +1 Cha (16 Con, 18 Cha)
+
+5th Level
+Class: Paladin 5
+Skill: Extra Attack
+Oath Spells: Hold Person, Spiritual Weapon
+2nd Tier Spell: Find Steed, Aid
+
+6th Level
+Class: Paladin 6
+Skill: Aura of Protection
+2nd Tier Spell: Lesser Restoration
+
+7th Level
+Class: Paladin 7
+Skill: Aura of Conquest
+
+8th Level
+Multiclass: Sorcerer 1
+Sorcerous Origin: Divine Soul
+Skill: Favored by the Gods
+Divine Magic: Protection from Evil and Good
+Cantrips: Toll the Dead, Guidance, Thaumatury
+1st Tier Spells: Shield, Guiding Bolt
+
+9th Level
+Multiclass: Sorcerer 2
+Skill: Font of Magic
+1st Tier Spell: Sanctuary
+
+10th Level
+Multiclass: Sorcerer 3
+Metamagic: Quickened Spell, Heightened Spell
+Drop 1st Tier Spell: Sanctuary
+2nd Tier Spells: Mirror Image, Misty Step
+
+11th Level
+Multiclass: Sorcerer 4
+ASI: +2 Cha (20 Cha)
+2nd Tier Spell: Warding Bond
+
+12th Level
+Multiclass: Sorcerer 5
+Skill: Magical Guidance
+Drop 2nd Tier Spell: Warding Bond
+3rd Tier Spells: Fireball, Spirit Guardians
+
+13th Level
+Multiclass: Sorcerer 6
+Skill: Empowered Healing
+3rd Tier Spell: Haste
+
+14th Level
+Multiclass: Sorcerer 7
+4th Tier Spell: Death Ward
+
+15th Level
+Multiclass: Sorcerer 8
+ASI: +2 Con (18 Con)
+4th Tier Spell: Dimension Door
+
+16th Level
+Multiclass: Sorcerer 9
+Drop 4th Tier Spell: Dimension Door
+5th Tier Spells: Hold Monster, Holy Weapon
+
+17th Level
+Multiclass: Sorcerer 10
+4th Tier Spell: Dimension Door
+
+18th Level
+Multiclass: Sorcerer 11
+Drop 4th Tier Spell: Dimension Door
+6th Tier Spell: Disintegrate, Heal
+
+19th Level
+Multiclass: Sorcerer 12
+4th Tier Spell: Dimension Door
+
+20th Level
+Multiclass: Sorcerer 13
+7th Tier Spell: Crown of Stars

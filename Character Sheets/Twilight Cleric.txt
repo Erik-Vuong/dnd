@@ -1,0 +1,98 @@
+STR: 8
+DEX: 16
+CON: 15
+INT: 8
+WIS: 17
+CHA: 10
+
+1st Level
+Race: Half-Drow
+Background: Faction Agent
+Skill Proficiencies: Persuasion, Religion, Insight, Perception
+Weapon Proficiencies: Simple Weapons, Martial Weapons, All Armor, Shields,
+Equipment: Warhammer, Mace, Scale Mail, Explorer's Pack, Shield, Holy Symbol, Faction Emblem, Faction Text, Common Clothes, 15 GP
+Skills: Darkvision, Fey Ancestry, Eyes of Night, Vigilant Blessing
+Languages: Common, Elven, Dwarven, Draconic 
+Feature: Safe Haven
+Divine Domain: Twilight
+Domain Spells: Faerie Fire, Sleep
+Drow Magic: Dancing Lights
+Cantrips: Toll the Dead, Word of Radiance, Guidance
+1st Tier Spells: Guiding Bolt, Bless, Cure Wounds, Healing Word
+
+2nd Level
+Skill: Channel Divinity (x1)
+Channel Divinity: Turn Undead, Twilight Sanctuary
+1st Tier Spell: Sanctuary
+
+3rd Level
+Domain Spells: Moonbeam, See Invisibility
+Drow Magic: Faerie Fire
+Drop 1st Tier Spell: Sanctuary
+2nd Tier Spell: Spiritual Weapon, Prayer of Healing
+
+4th Level
+Feat: Elven Accuracy (18 Wis)
+Cantrip: Thaumaturgy
+2nd Tier Spell: Augury, Enhance Ability
+
+5th Level
+Domain Spells: Aura of Vitality, Leomund's Tiny Hut
+Drow Magic: Darkness
+3rd Tier Spell: Spirit Guardians
+
+6th Level
+Skill: Steps of Night
+3rd Tier Spell: Revivify
+
+7th Level
+Domain Spells: Aura of Life, Greater Invisibility
+4th Tier Spell: Banishment
+
+8th Level
+ASI: +2 Wis (20 Wis)
+Skill: Divine Strike
+4th Tier Spells: Death Ward, Divination
+
+9th Level
+Domain Spells: Circle of Power, Mislead
+Drop 4th Tier Spell: Divination
+3rd Tier Spell: Bestow Curse
+5th Tier Spell: Commune
+
+10th Level
+Cantrip: Mending
+Skill: Divine Intervention
+5th Tier Spell: Contagion
+
+11th Level
+Skill: Channel Divinity (x2)
+6th Tier Spell: Heal
+
+12th Level
+Feat: Resilient (16 Con)
+
+13th Level
+7th Tier Spell: Plane Shift
+
+14th Level
+Skill: Improved Divine Strike
+
+15th Level
+8th Tier Spell: Holy Aura
+
+16th Level
+ASI: +2 Con (18 Con)
+
+17th Level
+9th Tier Spell: Mass Heal
+Channel Divinity: Improved Twilight Sanctuary
+
+18th Level
+Skill: Channel Divinity (x3)
+
+19th Level
+ASI: +2 Con (20 Con)
+
+20th Level
+Skill: Improved Divine Intervention

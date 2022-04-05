@@ -1,0 +1,75 @@
+STR: 8
+DEX: 17
+CON: 14
+INT: 8
+WIS: 17
+CHA: 10
+
+1st Level
+Race: Mountain Dwarf
+Background: Far Traveler
+Skill Proficiencies: Stealth, Insight, Survival, Perception
+Weapon Proficiencies: Simple Weapons, Shortswords, Battleaxe, Handaxe, Light Hammer, Warhammer, Light Armor, Medium Armor, Brewer's Supplies, Zither
+Equipment: Quarterstaff, 10 Darts, Explorer's Pack, Zither, Poor-Wrought Maps, Traveler's Clothes, 10 GP Jewelry, 5 GP
+Skills: Darkvision, Dwarven Resilience, Stonecunning, Unarmored Defense, Martial Arts
+Languages: Common, Dwarven, Gnomish
+Feature: All Eyes on You
+
+2nd Level
+Skills: Ki, Unarmored Movement
+
+3rd Level
+Monastic Tradition: Way of the Soul Knife
+Skills: Soul Knives, Psychic Slash
+
+4th Level
+ASI: +1 Dex, +1 Wis (18 Dex, 18 Wis)
+Skills: Slow Fall, Quickened Healing
+
+5th Level
+Skills: Extra Attack, Stunning Strike, Focused Aim
+
+6th Level
+Skill: Ki-Empowered Strikes, Aura Sight
+
+7th Level
+Skill: Evasion, Stillness of Mind
+
+8th Level
+ASI: +2 Wis (20 Wis)
+
+9th Level
+Skill: Unarmored Movement Improvement
+
+10th Level
+Skill: Purity of Body
+
+11th Level
+Skill: Spectral Blades
+
+12th Level
+ASI: +2 Dex (20 Dex)
+
+13th Level
+Skill: Tongue of the Sun and Moon
+
+14th Level
+Skill: Tough
+
+15th Level
+Skill: Timeless Body
+
+16th Level
+Feat: Lucky
+
+17th Level
+Skill: Psychic Form
+
+18th Level
+Skill: Empty Body
+
+19th Level
+Feat: Lucky
+
+20th Level
+Skill: Perfect Self

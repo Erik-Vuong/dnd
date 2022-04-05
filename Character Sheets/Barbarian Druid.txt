@@ -1,0 +1,106 @@
+STR: 13
+DEX: 12
+CON: 17
+INT: 8
+WIS: 16
+CHA: 8
+
+1st Level
+Class: Druid 1
+Race: Hill Dwarf
+Background: Hermit
+Skill Proficiencies: Perception, Arcana, Medicine, Religion
+Weapon Proficiencies: Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears, Battleaxe, Handaxe, Light Hammer, Warhammer, Herbalism Kit, Mason's Tools
+Equipment: Quarterstaff, Wooden Shield, Leather Armor, Explorer's Pack, Druidic Focus, Scroll Case, Winter Blanket, Common Clothes, Herbalism Kit, 5 GP
+Skills: Darkvision, Dwarven Resilience, Stonecunning, Dwarven Toughness
+Languages: Common, Dwarvish, Druidic
+Feature: Discovery
+Cantrips: Thorn Whip, Guidance
+1st Tier Spells: Entangle, Cure Wounds, Faerie Fire, Thunderwave
+
+2nd Level
+Class: Druid 2
+Druid Circle: Circle of the Moon
+Skills: Wild Shape, Wild Companion, Combat Wild Shape, Circle Forms
+1st Tier Spell: Detect Magic
+
+3rd Level
+Multiclass: Barbarian 1
+Skills: Rage, Unarmored Defense
+
+4th Level
+Multiclass: Barbarian 2
+Skills: Danger Sense, Reckless Attack
+
+5th Level
+Multiclass: Barbarian 3
+Primal Path: Totem Warrior
+Primal Knowledge: Athletics
+Totem Spells: Beast Sense, Speak with Animals
+Totem Spirit: Bear
+
+6th Level
+Class: Druid 3
+2nd Tier Spell: Spike Growth
+
+7th Level
+Class: Druid 4
+Feat: Resilient (18 Con)
+
+8th Level
+Class: Druid 5
+3rd Tier Spell: Conjure Animals
+
+9th Level
+Class: Druid 6
+Skill: Primal Strike
+3rd Tier Spell: Dispel Magic
+
+10th Level
+Class: Druid 7
+4th Tier Spell: Giant Insect
+
+11th Level
+Class: Druid 8
+ASI: +2 Wis (18 Wis)
+4th Tier Spells: Dominate Beast, Wall of Fire
+
+12th Level
+Class: Druid 9
+5th Tier Spell: Insect Plague
+
+13th Level
+Class: Druid 10
+Skill: Elemental Wild Shape
+5th Tier Spell: Awaken
+
+14th Level
+Class: Druid 11
+6th Tier Spell: Investiture of Stone
+
+15th Level
+Class: Druid 12
+ASI: +2 Wis (20 Wis)
+6th Tier Spells: Wall of Thorns, Transport via Plants
+
+16th Level
+Class: Druid 13
+7th Tier Spell: Reverse Gravity
+
+17th Level
+Class: Druid 14
+Skill: Thousand Forms
+7th Tier Spell: Plane Shift
+
+18th Level
+Class: Druid 15
+8th Tier Spell: Tsunami
+
+19th Level
+Class: Druid 16
+ASI: +2 Con (20 Con)
+8th Tier Spell: Incendiary Cloud
+
+20th Level
+Class: Druid 17
+9th Tier Spell: Foresight

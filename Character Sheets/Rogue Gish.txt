@@ -1,0 +1,80 @@
+STR: 8
+DEX: 17
+CON: 14
+INT: 16
+WIS: 10
+CHA: 8
+
+1st Level
+Class: Rogue 1
+Race: Wood Elf
+Background: Criminal
+Skill Proficiencies: Perception, Deception, Stealth, Athletics, Insight, Investigation, Persuasion
+Weapon Proficiencies: Shortsword, Longsword, Shortbow, Longbow, Light Armor, Simple Weapons, Rapier, Hand Crossbow, Thieves' Tools, Deck of Cards
+Equipment: Shortsword, Shortbow, Burglars' Pack, Leather Armor, 2 Daggers, Thieves' Tools, 15 GP
+Expertise: Perception, Stealth
+Skills: Darkvision, Fey Ancestry, Trance, Fleet of Foot, Mask of the Wild, Sneak Attack
+Languages: Common, Elven, Thieves' Cant
+Feature: Criminal Contact
+
+2nd Level
+Class: Rogue 2
+Skill: Cunning Action
+
+3rd Level
+Class: Rogue 3
+Rogueish Archetype: Soulknife
+Skills: Psi-Bolstered Knack, Psychic Whispers, Psychic Blades
+
+4th Level
+Class: Rogue 4
+Feat: Elven Accuracy (18 Dex)
+
+5th Level
+Multiclass: Wizard 1
+Skills: Arcane Recovery
+Cantrips: Mage Hand, Minor Illusion, Prestidigitation
+1st Tier Spells: Absorb Elements, Detect Magic, Find Familiar, Ice Knife, Mage Armor, Shield
+
+6th Level
+Multiclass: Wizard 2
+Arcane Tradition: Bladesinging
+Skill Proficiency: Performance
+Skills: Bladesong
+1st Tier Spells: Alarm, Comprehend Languages
+
+7th Level
+Multiclass: Wizard 3
+2nd Tier Spells: Misty Step, Flaming Sphere
+
+8th Level
+Multiclass: Wizard 4
+ASI: +2 Dex (20 Dex)
+Cantrip: Dancing Lights
+2nd Tier Spells: Augury, Mirror Image
+
+9th Level
+Multiclass: Wizard 5
+3rd Tier Spells: Counterspell, Fireball
+
+10th Level
+Multiclass: Wizard 6
+Skill: Extra Attack
+3rd Tier Spells: Dispel Magic, Spirit Shroud
+
+11th Level
+Multiclass: Wizard 7
+4th Tier Spells: Greater Invisibility, Evard's Black Tentacles
+
+12th Level
+Multiclass: Wizard 8
+ASI: +2 Con (16 Con)
+4th Tier Spells: Divination, Fire Shield
+
+13th Level
+Multiclass: Wizard 9
+5th Tier Spells
+
+14th Level
+Multiclass: Wizard 10
+Skill: Song of Defense

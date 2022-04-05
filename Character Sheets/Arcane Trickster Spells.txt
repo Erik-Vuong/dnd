@@ -1,0 +1,81 @@
+1st Level
+Race: Wood Elf
+Background: Criminal
+Skill Proficiencies: Perception, Deception, Stealth, Athletics, Insight, Investigation, Persuasion
+Weapon Proficiencies: Shortsword, Longsword, Shortbow, Longbow, Light Armor, Simple Weapons, Rapier, Hand Crossbow, Thieves' Tools, Deck of Cards
+Equipment: Shortsword, Shortbow, Burglars' Pack, Leather Armor, 2 Daggers, Thieves' Tools, 15 GP
+Expertise: Perception, Stealth
+Skills: Darkvision, Fey Ancestry, Trance, Fleet of Foot, Mask of the Wild, Sneak Attack
+Languages: Human, Elven, Thieves' Cant
+Feature: Criminal Contact
+
+2nd Level
+Skill: Cunning Action
+
+3rd Level
+Rogueish Archetype: Arcane Trickster
+Cantrips: Mage Hand Legerdemain, Minor Illusion, Prestidigitation
+1st Tier Spells: Find Familiar, Silent Image, Sleep
+
+4th Level
+ASI: +1 Dex, +1 Con (Dex 12, Con 5)
+1st Tier Spell: Charm Person
+
+5th Level
+Skill: Uncanny Dodge
+
+6th Level
+Expertise: Deception, Persuasion
+
+7th Level
+Skill: Evasion
+2nd Tier Spell: Invisibility, Mirror Image
+Drop 1st Tier Spell: Charm Person
+
+8th Level
+2nd Tier Spell: Misty Step
+Feat: Mobile
+
+9th Level
+Skill: Magical Ambush
+
+10th Level
+Cantrip: Message
+1st Tier Spell: Charm Person
+Feat: Lucky
+
+11th Level
+Skill: Reliable Talent
+Add Spells: Hold Person
+
+12th Level
+ASI: +2 Dex (Dex 14)
+
+13th Level
+Skill: Versatile Trickster
+3rd Tier Spell: Major Image
+
+14th Level
+Skill: Blindsense
+3rd Tier Spell: Haste
+
+15th Level
+Skill: Slippery Mind
+
+16th Level
+3rd Tier Spell: Hypnotic Pattern
+ASI: +2 Dex (Dex 16)
+
+17th Level
+Skill: Spell Thief
+
+18th Level
+Skill: Elusive
+
+19th Level
+4th Tier Spell: Greater Invisibility
+ASI: +2 Dex (Dex 18)
+
+20th Level
+4th Tier Spell: Evard's Black Tentacles
+Skill: Stroke of Luck

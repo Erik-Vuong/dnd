@@ -1,0 +1,113 @@
+STR: 8
+DEX: 16
+CON: 14
+INT: 17
+WIS: 13
+CHA: 3
+
+1st Level
+Race: Human (Custom Lineage)
+Background: Sage
+Skill Proficiencies: Perception, Investigation, Arcana, History
+Weapon Proficiencies: Simple Weapons, Light Armor, Medium Armor, Shields, Thieves' Tools, Tinker's Tools, Calligrapher's Supplies
+Equipment: Scale Mail, Dungeoneer's Pack, Thieves' Tools, Bottle of Ink, Quill, Small Knife, Letter from Dead Colleague, Common Clothes, 45 GP
+Skills: Darkvision, Magical Tinkering
+Languages: Common, Gnomish, Elven, Dwarven
+Feature: Researcher
+Feat: Keen Mind (18 Int)
+Cantrips: Firebolt, Prestidigitation
+1st Tier Spells: Absorb Elements, Cure Wounds, Faerie Fire, Tasha's Caustic Brew
+
+2nd Level
+Infusions: Enhanced Arcane Focus, Enhanced Defense
+Replicated Magic Items: Bag of Holding, Spellwrought Tattoo (Silvery Barbs)
+1st Tier Spell: Detect Magic
+
+3rd Level
+Artificer Specialist: Maverick
+Skill: The Right Tool for the Job
+Breakthrough Spell List: Wizard
+Breakthrough Spell: Find Familiar
+Cantrip: Minor Illusion
+
+4th Level
+ASI: +2 Int (20 Int)
+1st Tier Spell: Alarm
+
+5th Level
+Skill: Cantrip Savant
+Breakthrough Spell List: Cleric
+Breakthrough Spell: Spiritual Weapon
+Drop 1st Tier Spell: Alarm
+2nd Tier Spell: Web, Enhance Ability
+
+6th Level
+Skill: Tool Expertise
+Infusions: Spell-Refueling Ring, Cloak of Elvenkind
+1st Tier Spell: Alarm
+
+7th Level
+Skill: Flash of Genius
+
+8th Level
+Feat: Magic Initiate (Wizard)
+Cantrips: Guidance, Toll the Dead
+1st Tier Spell: Bless
+2nd Tier Spell: Lesser Restoration
+
+9th Level
+Skill: Superior Breakthroughs
+Breakthrough Spell List: Druid
+Breakthrough Spell: Fireball
+Drop 2nd Tier Spell: Lesser Restoration
+3rd Tier Spells: Revivify, Tiny Servant
+
+10th Level
+Skill: Magic Item Adept
+Drop Infusion: Cloak of Elvenkind
+Infusions: Cloak of Protection, Eyes of the Eagle, Winged Boots
+Cantrip: Mage Hand
+3rd Tier Spell: Dispel Magic
+
+11th Level
+Skill: Spell-Storing Item
+
+12th Level
+Feat: Lucky
+3rd Tier Spell: Haste
+
+13th Level
+Breakthrough Spell List: Warlock
+Breakthrough Spell: Summon Aberration
+Drop 3rd Tier Spell: Haste
+4th Tier Spell: Arcane Eye, Otiluke's Resilient Sphere
+
+14th Level
+Skill: Magic Item Savant
+Infusions: Amulet of Health, Ring of Protection
+Cantrip: Mending
+3rd Tier Spell: Haste
+
+15th Level
+Skill: Final Breakthrough
+
+16th Level
+Feat: Gift of the Metallic Dragon
+4th Tier Spell: Freedom of Movement
+
+17th Level
+Breakthrough Spell List: Paladin
+Breakthrough Spell: Mass Cure Wounds
+5th Tier Spell: Greater Restoration
+
+18th Level
+Skill: Magic Item Master
+Infusions: Gem of Seeing, Cloak of the Bat
+5th Tier Spell: Wall of Stone
+
+19th Level
+Feat: Tough
+
+20th Level
+Skill: Soul of Artifice
+5th Tier Spell: Creation

@@ -1,0 +1,92 @@
+1st Level
+Race: Variant Human
+Background: Acolyte
+Skill Proficiencies: Perception, Insight, Religion, Athletics, Intimidation
+Weapon Proficiencies: All Armor, Shields, Simple Weapons, Martial Weapons
+Equipment: Shortsword, Shield, Spear, Explorers' Pack, Chainmail, Token of Fortuna, Spray-Painted Golden Statuette, Prayer Book, 5 Sticks of Incense, Vestments, Common Clothes, 15 GP
+Skills: Divine Sense, Lay on Hands
+Languages: Common, ___, ___, ___
+Feature: Shelter of the Faithful
+Feat: Polearm Master
+
+2nd Level
+Fighting Style: Defense
+Skill: Spellcasting, Divine Smite
+1st Tier Spells: Shield of Faith, Protection from Good and Evil, Heroism, Bless
+
+3rd Level
+Skill: Divine Health, Harness Divine Power
+Sacred Oath: Crown
+Channel Divinity: Champion Challenge, Turn the Tide
+Oath Spells: Command, Compelled Duel
+
+4th Level
+Feat: Heavy Armor Master (16 Str)
+1st Tier Spell: Thunderous Smite
+
+5th Level
+Skill: Extra Attack
+Oath Spells: Warding Bond, Zone of Truth
+Drop 1st Tier Spells: Thunderous Smite, Heroism
+2nd Tier Spell: Find Steed, Aid
+
+6th Level
+Skill: Aura of Protection
+2nd Tier Spell: Lesser Restoration
+
+7th Level
+Skill: Divine Allegiance
+
+8th Level
+Feat: Shield Master
+1st Tier Spell: Heroism
+
+9th Level
+Oath Spells: Aura of Vitality, Spirit Guardians
+Drop 1st Tier Spell: Heroism
+3rd Tier Spell: Revivify
+
+10th Level
+Skill: Aura of Courage
+3rd Tier Spell: Magic Weapon
+
+11th Level
+Skill: Improved Divine Smite
+
+12th Level
+ASI: +2 Cha (18 Cha)
+1st Tier Spell: Heroism
+
+13th Level
+Oath Spells: Banishment, Guardian of Faith
+Drop 1st Tier Spell: Heroism
+Drop 2nd Tier Spell: Find Steed
+4th Tier Spell: Death Ward, Find Greater Steed
+
+14th Level
+Skill: Cleansing Touch
+1st Tier Spell: Heroism
+
+15th Level
+Skill: Unyielding Saint
+
+16th Level
+ASI: +2 Cha (20 Cha)
+2nd Tier Spell: Find Steed
+
+17th Level
+Oath Spells: Circle of Power, Geas
+Drop 2nd Tier Spell: Find Steed
+5th Tier Spell: Banishing Smite
+
+18th Level
+Skill: Aura Improvements
+5th Tier Spell: Raise Dead
+
+19th Level
+Feat: Tough
+
+20th Level
+Skill: Exalted Champion
+5th Tier Spell: Summon Celestial
+

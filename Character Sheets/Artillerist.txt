@@ -1,0 +1,49 @@
+STR: 8
+DEX: 16
+CON: 14
+INT: 17
+WIS: 10
+CHA: 8
+
+1st Level
+Race: Rock Gnome
+Background: Criminal
+Skill Proficiencies: Perception, Investigation, Stealth, Sleight of Hand
+Weapon Proficiencies: Simple Weapons, Light Armor, Medium Armor, Shields, Thieves' Tools, Tinker's Tools, Jeweler's Tools, Playing Cards
+Equipment: 2 Daggers, Light Crossbow, 20 Bolts, Studded Leather Armor, Thieves' Tools, Dungeoneer's Pack, Dark Common Clothes, 15 GP
+Skills: Darkvision, Gnome Cunning, Artificer's Lore, Tinker, Magical Tinkering
+Languages: Common, Gnomish
+Feature: Criminal Contact
+Cantrips: Firebolt, Mage Hand
+1st Tier Spells: Tasha's Caustic Brew, Alarm, Detect Magic
+
+2nd Level
+Replicated Magic Items: Rope of Climbing, Wand of Secrets, Bag of Holding, Sending Stones
+1st Tier Spell: Identify
+
+3rd Level
+Artificer Specialist: Artillerist
+Weapon Proficiency: Woodcarver's Tools
+Skills: The Right Tool for the Job, Eldritch Cannon
+Artificer Spells: Shield, Thunderwave
+
+4th Level
+Feat: Shadow Touched (18 Int, Silent Image)
+1st Tier Spells: Expeditious Retreat, Grease
+
+5th Level
+Skill: Arcane Firearm
+Artificer Spells: Scorching Ray, Shatter
+
+6th Level
+Replicated Magic Items: Gloves of Thievery, Cloak of the Manta Ray
+Skill: Tool Expertise
+2nd Tier Spell: Alter Self
+
+7th Level
+Skill: Flash of Genius
+
+8th Level
+ASI: +2 Int (20 Int)
+1st Tier Spell: Cure Wounds
+2nd Tier Spell: Arcane Lock

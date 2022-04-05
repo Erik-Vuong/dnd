@@ -1,0 +1,100 @@
+STR: 6
+DEX: 16
+CON: 15
+INT: 17
+WIS: 13
+CHA: 12
+
+1st Level
+Race: Kobold
+Background: Anthropologist
+Skill Proficiencies: Insight, Religion, Arcana, History
+Weapon Proficiencies: Simple Weapons, Light Armor, Meduim Armor, Shields, Thieves' Tools, Tinker's Tools, Calligrapher's Supplies
+Equipment: Light Crossbow, 20 Bolts, Scale Mail, Thieves' Tools, Dungeoneer's Pack, Leather-Bound Diary, Bottle of Ink, Ink Pen, Traveler's Clothes, Trinket, 60 GP
+Skills: Darkvision, Pact Tactics, Draconic Legacy, Sunlight Sensitivity, Magical Tinkering
+Languages: Common, Draconic, Gnomish, Goblin
+Features: Cultural Chameleon, Adept Linguist
+Cantrips: Guidance, Mending
+1st Tier Spells: Tasha's Caustic Brew, Absorb Elements, Detect Magic, Sanctuary
+
+2nd Level
+Infusions: Repeating Shot, Enhanced Defense, Bag of Holding, Spellwrought Tattoo
+1st Tier Spell: Identify
+
+3rd Level
+Artificer Specialist: Battle Smith
+Weapon Proficiencies: Martial Weapons, Smith's Tools
+Skills: Battle Ready, Steel Defender
+Battle Smith Spells: Heroism, Shield
+
+4th Level
+Feat: Sharpshooter
+1st Tier Spell: Alarm
+
+5th Level
+Skill: Extra Attack 
+Battle Smith Spells: Branding Smite, Warding Bond
+Drop 1st Tier Spell: Alarm
+2nd Tier Spell: Web, Enhance Ability
+
+6th Level
+Skill: Tool Expertise
+Infusions: Spell-Refueling Ring, Cloak of Elvenkind
+1st Tier Spell: Alarm
+
+7th Level
+Skill: Flash of Genius
+
+8th Level
+Feat: Fey Touched (18 Int, Hex)
+
+9th Level
+Skill: Arcane Jolt
+Drop 2nd Tier Spell: Lesser Restoration
+3rd Tier Spells: Tiny Servant, Haste
+
+10th Level
+Skill: Magic Item Adept
+Drop Infusion: Cloak of Elvenkind
+Infusions: Cloak of Protection, Eyes of the Eagle, Winged Boots
+Cantrip: Mage Hand
+3rd Tier Spell: Revivify
+
+11th Level
+Skill: Spell-Storing Item
+
+12th Level
+ASI: +2 Int (20 Int)
+3rd Tier Spell: Dispel Magic
+
+13th Level
+Drop 3rd Tier Spell: Dispel Magic
+4th Tier Spell: Arcane Eye, Otiluke's Resilient Sphere
+
+14th Level
+Skill: Magic Item Savant
+Infusions: Amulet of Health, Ring of Protection
+Cantrip: Mending
+3rd Tier Spell: Dispel Magic
+
+15th Level
+Skill: Improved Defender
+
+16th Level
+Feat: Lucky
+4th Tier Spell: Freedom of Movement
+
+17th Level
+5th Tier Spell: Greater Restoration
+
+18th Level
+Skill: Magic Item Master
+Infusions: Gem of Seeing, Cloak of the Bat
+5th Tier Spell: Wall of Stone
+
+19th Level
+Feat: Tough
+
+20th Level
+Skill: Soul of Artifice
+5th Tier Spell: Creation

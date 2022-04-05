@@ -1,0 +1,44 @@
+1. 5 T - Intimidation disadvantage
+2. 5 T - Intimidation disadvantage
+3. 10 H - Enlightenment
+4. 1 H - Draw 3 good cards
+5. 4 H - Persuasion advantage
+6. 15 H - Evil god's favor
+7. 19 H - Blessing
+8. 10 T - Fake invisibility, 30 hours
+9. 9 H - Increase lowest stat
+10. 14 H - Add HP
+11. 9 T - Decrease lowest stat
+12. 9 T - Decreast lowest stat
+13. 18 H - Lifespan doubled
+14. 19 T - Curse
+15. 12 H - Overcome weakness
+16. 20 T - Bad wish
+17. 20 H - Good wish
+18. 20 H - Good wish
+19. 5 H - Intimidation advantage
+20. 9 T - Decrease lowest stat
+21. 7 H - Enemy befriends you
+22. 10 T - Magic sleep, 70 hours
+23. 17 H - Legendary save
+
+1. 19 T - Curse 
+2. 7 T - Friend betrays you
+3. 3 T - Lose proficiency
+4. 13 T - Enemy revives
+5. 14 H - Add HP
+6. 16 H - Disaster vision
+7. 14 H - Add HP
+8. 19 H - Blessing
+9. 14 T - Lose HP
+10. 13 T - Enemy revives
+11. 5 T - Double weakness
+12. 3 H - Gain proficiency
+13. 17 T - Hallucinate for 10 hours
+14. 16 H - Disaster vision
+15. 13 T - Enemy revives 
+16. 16 H - Disaster vision
+17. 3 H - Gain proficiency
+18. 4 T - Persuasion disadvantage
+19. 8 T - 3 free advantage rolls
+20. 20 T - Bad wish

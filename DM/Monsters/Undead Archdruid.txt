@@ -1,0 +1,44 @@
+Undead Archdruid
+AC: 19 (Medium Armor, Shield)
+HP: 105 (14d8 + 42)
+Speed: 30 feet
+Initiative: +2
+Proficiency Bonus: +5
+CR: 17 (18,000 XP)
+
+STR: 12 (+1)
+DEX: 14 (+2)
+CON: 16 (+3)
+INT: 10 (+0)
+WIS: 20 (+5)
+CHA: 15 (+2)
+
+Saving Throws: CON +8, WIS +10, CHA +7
+Damage Resistances: Cold, Lightning, Necrotic
+Damage Immunities: Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+Condition Immunities: Blinded, Charmed, Deafaned, Exhaustion, Frightened, Paralyzed, Poisoned
+Senses: Passive Perception 20
+Languages: Druidic plus any two languages
+
+Legendary Resistances - 2/Day
+Turn Resistance - The undead archdruid has advantage on saving throws against any effect that turns undead.
+
+Spellcasting - The undead archdruid is a 14th-level spellcaster. It's spellcasting ability is Wisdom (Save DC 18, +10 to hit).
+Cantrips (at will): Druidcraft, Frostbite, Chill Touch, Thorn Whip
+1st Level (4 slots): Absorb Elements, Blindness/Deafness, Entangle, Ray of Sickness
+2nd Level (3 slots): Spike Growth, Hold Person, Misty Step
+3rd Level (3 slots): Erupting Earth, Meld into Stone, Animate Dead, Bestow Curse
+4th Level (3 slots): Blight, Ice Storm
+5th Level (2 slots): Antilife Shell, Negative Energy Flood
+6th Level (1 slot): Circle of Death, Harm, Soul Cage
+7th Level (1 slot): Finger of Death, Fire Storm, Mirage Arcane
+
+Fungal Body - Any critical hit against the undead archdruid counts as a normal hit instead, unless you're incapacitated.
+
+Actions
+Symbiotic Entity (2/Day): The undead archdruid gains 56 temporary hitpoints for 10 minutes.
+
+Legendary Actions (3/Round)
+Cantrip: The undead archdruid casts a cantrip
+Symbiotic Entity (2 actions): The undead archdruid uses Symbiotic Entity
+Spreading Spores (2 actions): The undead archdruid hurls spores up to 30 feet away, where they swirl in a 10-foot cube until the start of the undead archdruid's next turn. Whenever a creature moves into the cube or starts its turn there, that creature takes 33 (6d10) damage, unless the creature succeeds on a Constitution saving throw against the undead archdruid's spell save DC. A creature can take this damage no more than once per turn.

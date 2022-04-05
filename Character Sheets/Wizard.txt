@@ -1,0 +1,93 @@
+Prepared Spell List
+1st Level Spells:
+2nd Level Spells:
+3rd Level Spells:
+4th Level Spells:
+5th Level Spells:
+6th Level Spells:
+7th Level Spells:
+8th Level Spells:
+9th Level Spells:
+
+1st Level
+Race: Tiefling
+Background: Sage
+Skill Proficiencies: Arcana, History, Investigation, Religion
+Weapon Proficiencies: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows
+Equipment: Dagger, Arcane Focus, Explorers' Pack, Spellbook, Bottle of Ink, Quill, Small Knife, Letter from a Friend, Common Clothes, 10 GP
+Skills: Darkvision, Hellish Resistance, Spellcasting, Arcane Recovery
+Languages: Common, Infernal, Draconic, Elven
+Feature: Researcher
+Cantrips: Thaumaturgy, Fire Bolt, Minor Illusion, Shocking Grasp
+1st Tier Spells: Find Familiar, Mage Armor, Magic Missile, Alarm, Shield, Sleep
+
+2nd Level
+Arcane Tradition: School of Abjuration
+Skills: Abjuration Savant, Arcane Ward
+1st Tier Spells: Protection From Evil and Good, Comprehend Languages
+
+3rd Level
+2nd Tier Spell: Hellish Rebuke (once), Scorching Ray, Misty Step
+
+4th Level
+ASI:
+Cantrip: Prestidigitation
+2nd Tier Spell: Levitate, Suggestion
+
+5th Level
+2nd Tier Spell: Darkness (once)
+3rd Tier Spell: Fireball, Counterspell
+
+6th Level
+Skill: Projected Ward
+3rd Tier Spell: Haste, Hypnotic Pattern
+
+7th Level
+4th Tier Spell: Polymorph, Greater Invisibility
+
+8th Level
+ASI:
+4th Tier Spell: Banishment, Fly
+
+9th Level
+5th Tier Spell: Animate Objects, Seeming
+
+10th Level
+Skill: Improved Abjuration
+Cantrip: Mage Hand
+5th Tier Spell: Telekinesis, Telepathic Bond
+
+11th Level
+6th Tier Spell: Mass Suggestion, Globe of Invulnerability
+
+12th Level
+ASI:
+6th Tier Spell: True Seeing, Contingency
+
+13th Level
+7th Tier Spell: Forcecage, Simulacrum
+
+14th Level
+Skill: Spell Resistance
+7th Tier Spell: Teleport, Finger of Death
+
+15th Level
+8th Tier Spell: Clone, Mind Blank
+
+16th Level
+ASI:
+8th Tier Spell: Antipathy/Sympathy, Maze
+
+17th Level
+9th Tier Spell: Wish, Meteor Swarm
+
+18th Level
+Skill: Spell Mastery
+9th Tier: Foresight, Prismatic Wall
+
+19th Level
+ASI:
+9th Tier: Time Stop, True Polymorph 
+
+20th Level
+Skill: Signature Spells

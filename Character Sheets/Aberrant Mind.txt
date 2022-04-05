@@ -1,0 +1,93 @@
+STR: 8
+DEX: 14
+CON: 14
+INT: 10
+WIS: 10
+CHA: 17
+
+1st Level
+Race: Changeling (Customized Lineage)
+Background: Faceless
+Skill Proficiencies: Deception, Intimidation, Persuasion, Religion
+Weapon Proficiencies: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows, Disguise Kit
+Equipment: Light Crossbow, 20 Bolts, 2 Daggers, Arcane Focus, Explorer's Pack, Disguise Kit, Cultist Robes, 10 GP
+Skills: Darkvision, Telepathic Speech
+Languages: Common, Deep Speech, Draconic 
+Feature: Dual Personalities
+Sorcerous Origin: Aberrant Mind
+Cantrips: Fire Bolt, Mind Sliver, Minor Illusion, Prestidigitation, Friends, Mage Hand
+1st Tier Spells: Mage Armor, Shield
+Psionic Spells: Silvery Barbs, Charm Person
+Feat: Telekinetic (18 Cha)
+
+2nd Level
+Skill: Font of Magic
+1st Tier Spell: Silent Image
+
+3rd Level
+Metamagic: Extended Spell, Subtle Spell
+Drop 1st Tier Spell: Silent Image
+2nd Tier Spells: Suggestion, Tasha's Mind Whip, Mirror Image
+Psionic Spells: Gift of Gab, Detect Thoughts
+
+4th Level
+Feat: Eldritch Adept (Mask of Many Faces)
+Cantrip: Encode Thoughts
+2nd Tier Spell: Invisibility
+
+5th Level
+Skill: Magical Guidance
+3rd Tier Spell: Fireball
+Psionic Spells: Incite Greed, Fast Friends
+
+6th Level
+Skill: Psionic Sorcery
+3rd Tier Spell: Tongues
+
+7th Level
+4th Tier Spell: Greater Invisibility
+Psionic Spells: Raulothim's Psychic Lance, Summon Aberration
+
+8th Level
+ASI: +2 Cha (20 Cha)
+2nd Tier Spell: Misty Step
+
+9th Level
+5th Tier Spell: Synaptic Static
+Psionic Spells: Geas, Modify Memory
+
+10th Level
+Metamagic: Empowered Spell
+Cantrip: Message
+5th Tier Spell: Seeming
+
+11th Level
+6th Tier Spell: Mass Suggestion
+
+12th Level
+ASI: +2 Dex (16 Dex)
+
+13th Level
+7th Tier Spell: Plane Shift
+
+14th Level
+Skill: Revelation in Flesh
+
+15th Level
+8th Tier Spell: Dominate Monster
+
+16th Level
+ASI: +2 Dex (18 Dex)
+
+17th Level
+Metamagic: Quickened Spell
+9th Tier Spell: Wish
+
+18th Level
+Skill: Warping Implosion
+
+19th Level
+ASI: +2 Dex (20 Dex)
+
+20th Level
+Skill: Sorcerous Restoration

@@ -1,0 +1,79 @@
+STR: 8
+DEX: 16
+CON: 16
+INT: 8
+WIS: 15
+CHA: 8
+
+1st Level
+Race: Human (Variant)
+Background: Far Traveler
+Skill Proficiencies: Perception, Insight, Stealth, Survival, Intimidation
+Weapon Proficiencies: Simple Weapons, Shortswords, Guzheng
+Equipment: Shortsword, 10 Darts, Explorer's Pack
+Skills: Unarmored Defense, Martial Arts
+Languages: Common
+Feature: All Eyes on You
+Feat: Fey Touched (16 Wis)
+Fey Spells: Misty Step, Hunter's Mark
+
+2nd Level
+Skill: Ki, Dedicated Weapon
+Martial Arts: Flurry of Blows, Patient Defense, Step of the Wind
+
+3rd Level
+Monstatic Tradition: Way of the Astral Self
+Skills: Arms of the Astral Self, Deflect Missiles, Ki-Fueled Attack
+
+4th Level
+ASI: +2 Wis (18 Wis)
+Skills: Slow Fall, Quickened Healing
+
+5th Level
+Skill: Extra Attack, Focused Aim
+Martial Art: Stunning Strike
+
+6th Level
+Skill: Ki-Empowered Strikes, Visage of the Astral Self
+
+7th Level
+Skill: Evasion, Stillness of Mind
+
+8th Level
+ASI: +2 Wis (20 Wis)
+
+9th Level
+Skill: Improved Unarmored Movement
+
+10th Level
+Skill: Purity of Body
+
+11th Level
+Skill: Body of the Astral Self
+
+12th Level
+ASI: +2 Con (18 Con)
+
+13th Level
+Skill: Tongue of Sun and Moon
+
+14th Level
+Skill: Diamond Soul
+
+15th Level
+Skill: Timeless Body
+
+16th Level
+ASI: +2 Con (20 Con)
+
+17th Level
+Skill: Awakened Astral Self
+
+18th Level
+Skill: Empty Body
+
+19th Level
+Feat: Tough
+
+20th Level
+Skill: Perfect Self

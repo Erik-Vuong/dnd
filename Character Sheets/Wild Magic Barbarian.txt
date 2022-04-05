@@ -1,0 +1,75 @@
+STR: 16
+DEX: 14
+CON: 16
+INT: 8
+WIS: 12
+CHA: 8
+
+1st Level
+Race: Earth Genasi
+Background: Folk Hero
+Skill Proficiencies: Athletics, Perception, Intimidation, Survival
+Weapon Proficiencies: Simple Weapons, Martial Weapons, Light Armor, Medium Armor, Shields
+Equipment: Greataxe, 2 Handaxes, 4 Javelins, Explorer's Pack
+Skills: Earth Walk, Rage, Unarmored Defense
+Languages: Common, Primordial
+Feature: Rustic Hospitality
+Genasi Magic: Pass Without Trace
+
+2nd Level
+Skills: Reckless Attack, Danger Sense
+
+3rd Level
+Primal Path: Path of Wild Magic
+Skill: Wild Surge
+
+4th Level
+ASI: +2 Str (18 Str)
+
+5th Level
+Skills: Extra Attack, Fast Movement
+
+6th Level
+Skill: Bolstering Magic
+
+7th Level
+Skill: Feral Instinct, Instinctive Pounce
+
+8th Level
+ASI: +2 Str (20 Str)
+
+9th Level
+Skill: Brutal Critical (x1)
+
+10th Level
+Skill: Unstable Backlash
+
+11th Level
+Skill: Relentless Rage
+
+12th Level
+ASI: +2 Con (18 Con)
+
+13th Level
+Skill: Brutal Critical (x2)
+
+14th Level
+Skill: Controlled Surge
+
+15th Level
+Skill: Persistent Rage
+
+16th Level
+ASI: +2 Con (18 Con)
+
+17th Level
+Skill: Brutal Critical (x3)
+
+18th Level
+Skill: Indomitable Might
+
+19th Level
+ASI: +2 Con (20 Con)
+
+20th Level
+Skill: Primal Champion (24 Str, 24 Con)

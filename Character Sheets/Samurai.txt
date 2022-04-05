@@ -1,0 +1,123 @@
+STR: 8
+DEX: 14
+CON: 14
+INT: 8
+WIS: 12
+CHA: 17
+
+1st Level
+Class: Fighter 1
+Race: Half-Elf (Drow)
+Background: Soldier
+Skill Proficiencies: Perception, Insight, Athletics, Intimidation
+Weapon Proficiencies: Simple Weapons, Martial Weapons, All Armor, Shields
+Equipment: Scale Mail (Ask DM), Katana, Shield, Light Crossbow, 20 Bolts, Explorer's Pack, Rank Insignia, Enemy Trophy, Bone Dice, Common Clothes, 10 GP
+Skills: Darkvision, Fey Ancestry
+Languages: Common, Elven, Draconic
+Feature: Military Rank (Officer)
+Fighting Style: Defense
+Drow Magic: Dancing Lights
+
+2nd Level
+Multiclass: Warlock 1
+Otherworldly Patron: Hexblade
+Skills: Hexblade's Curse, Hex Warrior
+Pact Spells: Shield, Wrathful Smite
+Cantrips: Eldritch Blast, Prestidigitation
+1st Tier Spells: Hex, Armor of Agathys
+
+3rd Level
+Class: Fighter 2
+Skill: Action Surge
+Drow Magic: Faerie Fire
+
+4th Level
+Class: Fighter 3
+Martial Archetype: Samurai
+Bonus Proficiency: Persuasion
+Skill: Fighting Spirit
+
+5th Level
+Class: Fighter 4
+Feat: Elven Accuracy (18 Cha)
+Martial Versatility: Defense
+Drow Magic: Darkness
+
+6th Level
+Class: Fighter 5
+Skill: Extra Attack
+
+7th Level
+Multiclass: Warlock 2
+Eldritch Invocations: Agonizing Blast, Devil's Sight
+1st Tier Spell: Hellish Rebuke
+
+8th Level
+Multiclass: Warlock 3
+Pact Boon: Pact of the Blade
+Pact Spells: Blur, Branding Smite
+2nd Tier Spell: Misty Step
+
+9th Level
+Multiclass: Warlock 4
+Feat: Great Weapon Master
+Cantrip: Minor Illusion
+2nd Tier Spell: Darkness
+
+10th Level
+Multiclass: Warlock 5
+Eldritch Invocation: Eldritch Smite
+Pact Spells: Blink, Elemental Weapon
+3rd Tier Spell: Counterspell
+
+11th Level
+Multiclass: Warlock 6
+Skill: Accursed Specter
+3rd Tier Spell: Hypnotic Pattern
+
+12th Level
+Multiclass: Warlock 7
+Eldritch Invocation: Eldritch Mind
+Pact Spells: Phantasmal Killer, Staggering Smite
+4th Tier Spell: Banishment
+
+13th Level
+Multiclass: Warlock 8
+ASI: +2 Cha (20 Cha)
+4th Tier Spell: Shadow of Moil
+
+14th Level
+Multiclass: Warlock 9
+Eldritch Invocation: Ghostly Gaze
+Pact Spells: Banishing Smite, Cone of Cold
+5th Tier Spell: Synpatic Snap
+
+15th Level
+Multiclass: Warlock 10
+Skill: Armor of Hexes
+Cantrip: Mage Hand
+
+16th Level
+Multiclass: Warlock 11
+5th Tier Spell: Dream
+Mystic Arcanum: Mental Prison
+
+17th Level
+Multiclass: Warlock 12
+ASI: +2 Con (18 Con)
+Eldritch Invocation: Lifedrinker
+
+18th Level
+Multiclass: Warlock 13
+5th Tier Spell: Scrying
+Mustic Arcanum: Forcecage
+
+19th Level
+Multiclass: Warlock 14
+Skill: Master of Hexes
+
+20th Level
+Multiclass: Warlock 15
+Eldritch Invocation: Visions of Distant Realms
+5th Tier Spell: Teleporation Circle
+Mystic Arcanum: Maddening Darkness

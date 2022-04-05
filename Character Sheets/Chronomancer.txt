@@ -1,0 +1,89 @@
+STR: 8
+DEX: 14
+CON: 17
+INT: 17
+WIS: 10
+CHA: 8
+
+1st Level
+Race: Mountain Dwarf
+Background: Sage
+Skill Proficiencies: Perception, Arcana, Religion, History, Investigation
+Weapon Proficiencies: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows, Battleaxe, Handaxe, Light Hammer, Warhammer, Light Armor, Medium Armor, Brewer's Supplies
+Equipment: Quarterstaff, Spellbook, Arcane Focus, Explorer's Pack, Bottle of Ink, Quill, Small Knife, Letter from Dead Colleague, Common Clothes, 10 GP
+Skills: Fleet of Foot, Fey Ancestry, Trance, Knowledge from a Past Life, Arcane Recovery
+Languages: Common, Elven
+Feature: Researcher
+Cantrips: Firebolt, Mage Hand, Prestidigitation
+1st Tier Spells: Find Familiar, Magic Missile, Silvery Barbs, Shield, Sleep, Alarm
+
+2nd Level
+Arcane Tradition: Chronurgy Magic
+Skills: Chronal Shift, Temporal Awareness
+1st Tier Spells: Comprehend Languages, Gift of Alacrity
+
+3rd Level
+2nd Tier Spells: Maximillian's Earthen Grasp, Misty Step
+
+4th Level
+ASI: +1 Int, +1 Con (18 Int, 18 Con)
+2nd Tier Spells: Rime's Binding Ice, Augury
+
+5th Level
+3rd Tier Spells: Fireball, Counterspell
+Drop 1st Tier Spell: Sleep
+1st Tier Spell: Absorb Elements
+
+6th Level
+Skill: Momentary Stasis
+3rd Tier Spells: Hypnotic Pattern, Leomund's Tiny Hut
+
+7th Level
+3rd Tier Spell: Dispel Magic
+4th Tier Spell: Summon Aberration
+
+8th Level
+ASI: +2 Int (20 Int)
+4th Tier Spells: Banishment, Dimension Door
+
+9th Level
+5th Tier Spells: Bestow Curse, Temporal Shunt
+
+10th Level
+Skill: Arcane Abeyance
+4th Tier Spells: Greater Invisibility, Polymorph
+
+11th Level
+6th Tier Spells: Disintegrate, Contingency
+
+12th Level
+Feat: ALert
+6th Tier Spells: Globe of Invulnerability, True Seeing
+
+13th Level
+7th Tier Spells: Forcecage, Simulacrum
+
+14th Level
+Skill: Convergent Future
+7th Tier Spells: Plane Shift, Etherealness
+
+15th Level
+8th Tier Spells: Clone, Maze
+
+16th Level
+Feat: Tough
+7th Tier Spell: Teleport
+8th Tier Spell: Dominate Monster
+
+17th Level
+9th Tier Spells: Wish, Foresight
+
+18th Level
+Spell Mastery: Silvery Barbs
+
+19th Level
+Feat: Lucky
+
+20th Level
+Signature Spells: Fireball, Counterspell
+2nd Tier Spell: Enhance Ability, Web

@@ -1,0 +1,77 @@
+STR: 8
+DEX: 16
+CON: 16
+INT: 8
+WIS: 12
+CHA: 15
+
+1st Level
+Race: Half-Elf
+Background: Pirate
+Skill Proficiencies: Athletics, Perception, Deception, Persuasion, Stealth, Sleight of Hand
+Weapon Proficiencies: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords, Light Armor, Thieves' Tools, Navigator's Tools, Vehicles (Water)
+Equipment: Rapier, 2 Daggers, Shortbow, 20 Arrows, Leather Armor, Explorer's Pack, Thieves' Tools, Belaying Pin, Silk Rope, Lucky Charm, Common Clothes, 10 GP
+Skills: Darkvision, Fey Ancestry, Fleet of Foot, Sneak Attack
+Expertise: Perception, Persuasion
+Languages: Common, Elven, Draconic
+Feature: Bad Reputation	
+
+2nd Level
+Skill: Cunning Action
+
+3rd Level
+Roguish Archetype: Swashbuckler
+Skills: Fancy Footwork, Rakish Audacity, Steady Aim
+
+4th Level
+Feat: Magic Initiate
+Cantrips: Booming Blade, Green-Flame Blade
+1st Tier Spell: Find Familiar
+
+5th Level
+Skill: Uncanny Dodge
+
+6th Level
+Expertise: Deception, Intimidation
+
+7th Level
+Skill: Evasion
+
+8th Level
+Feat: Elven Accuracy (16 Cha)
+
+9th Level
+Skill: Panache
+
+10th Level
+ASI: +2 Dex (18 Dex)
+
+11th Level
+Skill: Reliable Talent
+
+12th Level
+ASI: +2 Dex (20 Dex)
+
+13th Level
+Skill: Elegant Maneuver
+
+14th Level
+Skill: Blindsense
+
+15th Level
+Skill: Slippery Mind
+
+16th Level
+Feat: Lucky
+
+17th Level
+Skill: Master Duelist
+
+18th Level
+Skill: Elusive
+
+19th Level
+Feat: Tough
+
+20th Level
+Skill: Stroke of Luck

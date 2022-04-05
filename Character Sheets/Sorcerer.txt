@@ -1,0 +1,80 @@
+1st Level
+Race: Half Elf
+Background: Inheritor
+Skill Proficiencies: Deception, Persuasion, Survival, Arcana
+Weapon Proficiencies: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows, Lyre
+Equipment: 2 Daggers, Light Crossbow, 20 Bolts, Arcane Focus, Explorer's Pack, Inheritance, Traveler's Clothes, Lyre, 15 GP
+Skills: Darkvision, Fey Ancestry, Drow Magic, Draconic Resilience
+Languages: Common, Elven, Goblin, Dwarven, Draconic
+Feature: Inheritance
+Sorcerous Origin: Draconic Bloodline
+Cantrips: Minor Illusion, Prestidigitation, Shape Water, Mind Sliver
+1st Tier Spells: Magic Missile, Shield
+
+2nd Level
+Skill: Font of Magic
+1st Tier Spell: Sleep
+
+3rd Level
+Metamagic: Quickened Spell, Twinned Spell
+2nd Tier Spell: Maximillian's Earthen Grasp
+
+4th Level
+ASI: +1 Dex, +1 Cha (16 Dex, 18 Cha)
+Cantrip: Mage Hand
+2nd Tier Spell: Misty Step
+
+5th Level
+Skill: Magical Guidance
+3rd Tier Spell: Counterspell
+
+6th Level
+Elemental Affinity: Fire
+3rd Tier Spell: Fireball
+
+7th Level
+3rd Tier Spell: Hypnotic Pattern
+
+8th Level
+ASI: Elemental Adept
+4th Tier Spell: Wall of Fire
+
+9th Level
+4th Tier Spell: Banishment
+
+10th Level
+Metamagic: Heightened Spell
+Cantrip: Message
+5th Tier Spell: Animate Objects
+
+11th Level
+6th Tier Spell: Disintegrate
+
+12th Level
+ASI: +2 Cha (20 Cha)
+
+13th Level
+7th Tier Spell: Reverse Gravity
+
+14th Level
+Skill: Draconic Wings
+
+15th Level
+8th Tier Spell: Dominate Monster
+
+16th Level
+Feat: Lucky
+
+17th Level
+Metamagic: Seeking Spell
+9th Tier Spell: Wish
+
+18th Level
+Skill: Draconic Presence
+
+19th Level
+Feat: Metamagic Adept (Empowered Spell, Transmuted Spell)
+
+20th Level
+Skill: Sorcerous Restoration
+

@@ -1,0 +1,19 @@
+Druid 11/Barbarian 3/Monk 2/Fighter 2/Wizard 2
+
+Wind Walk
+Bladesong
+Longstrider
+Unarmored Movement (x2)
+Elk Totem Spirit
+
+300 + 10 + 10 + 20 + 15 = 355
+
+Tabaxi Agility (x2)
+Haste (x2)
+
+355 * 2 * 2 = 1420
+
+Action Dash
+Action Surge
+Haste Action
+Step of the Wind

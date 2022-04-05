@@ -1,0 +1,85 @@
+Precognition
+Psychic Focus - Advantage on initiative
+Precognitive Hunch (2 psi, conc, 1 min) - Bonus action self Bless
+All-Around Sight (3 psi) - Reaction disadvantage to attack on self
+Danger Sense (5 psi, conc, 8 hr) - No surprise, no advantage against you, +10 initiative
+Victory Before Battle (7 psi) - Self and 5 creatures within 60 ft +10 initiative
+
+Bestial Form
+Psychic Focus - Advantage on Animal Handling
+Bestial Claws (1-7 psi) - Melee weapon attack, 1d10 slashing per psi
+Bestial Transformation (1 hr) - Bonus action start/end
+Amphibious (2 psi) - Breathe underwater
+Climbing (2 psi) - Climbing speed
+Flight (5 psi) - Flight speed
+Keen Senses (2 psi) - Advantage on Perception
+Perfect Senses (3 psi) - 10 ft blindsight and see invisibility
+Swimming (2 psi) - Swimming Speed
+Tough Hide (2 psi) - +2 AC
+
+Iron Durability
+Psychic Focus - +1 AC
+Iron Hide (1-7 psi) - Shield
+Steel Hide (2 psi) - Bonus action BPS resistance until end of next turn
+Iron Resistance (7 psi, conc, 1 hr) - BPS resistance
+
+Mastery of Light and Darkness
+Psychic Focus - 30 ft see through magical darkness
+Darkness (1-7 psi) - Darkness spell, 10 feet per psi
+Light (2 psi, conc, 1 min) - Touch based Light/Faerie Fire
+Shadow Beasts (3 psi, conc, 1 min) - Summon two Shadows
+Radiant Beam (5-7 psi, conc, 1 min) - 60 ft Dex save, 6d6-8d6 radiant & blindness
+
+Psychic Assault
+Psychic Focus - +2 damage for psychic damage talents
+Psionic Blast (1-7 psi) - Automatic 1d8 psychic per psi
+Ego Whip (3 psi) - 60 ft Int save, 3d8 psychic, force Dodge/Disengage/Hide
+Id Insinuation (5 psi) - 60 ft Int save, force Dodge/Attack
+Psychic Blast (6/7 psi) - 60 ft cone, Int save, 8d8/10d8 psychic
+Psychic Crush (7 psi) - 20 ft cube, Int save, 8d8 psychic and stunned
+
+Mastery of Force
+Psychic Focus - Advantage on Strength checks
+Push (1-7 psi) - 60 ft Str save, 1d8 force per psi and moved 5 ft per psi
+Move (2-7 psi) - 60 ft range, move 20x20 object 60 ft, drop for 10 DC Dex save
+Inertial Armor (2 psi, 8 hr) - Base AC 14 + Dex, force resistance
+Telekinetic Barrier (3 psi, conc, 10 min) - 40 ft long, 10 ft high, 1 in thick, 10 AC 10 HP
+Grasp (3 psi, con, 1 min) - 60 ft Str save, grappled, +1 contest per psi point
+Crush (1-7 psi) - Grasp target, 1d6 bludgeoning per psi
+Move (1-7 psi) - Grasp target, 5 feet per psi
+
+Aura Sight
+Psychic Focus - Advantage on Insight
+Assess Foe (2 psi) - Bonus action, see HP and immunities/restistances/vulnerabilities
+Read Moods (2 psi) - Bonus action, one word summary of 6 creatures
+View Aura (3 psi, conc, 1 hr) - One target, detect magic, HP, emotions; adv on Insight and Cha
+Perceive the Unseen (5 psi, conc, 1 min) - See all creatures
+
+Mantle of Awe
+Psychic Focus - Half of Int added to Cha checks
+Charming Presence (1-7 psi) - Sleep but charming, 2d8 per psi
+Center of Attention (2 psi, conc, 1 min) - 60 ft Cha save, all other creatures invisible
+Invoke Awe (7 psi, conc, 10 min) - 60 ft, five targets, Int save, Dominate Monster
+
+Nomadic Mind
+Psychic Focus - Proficiency in one skill/tool/language
+Wandering Mind (2-6 psi, conc, 10 min) - 2 psi per skill proficiency, 1 hr no conc
+Find Creature (2 psi, conc, 1 hr) - Learn general location and plane of existence of creature
+Item Lore (3 psi, conc, 1 hr) - Identify
+Psychic Speech (5 psi) - Tongues
+Wandering Eye (6 psi, conc, 1 hr) - Arcane Eye
+Phasing Eye (7 psi, conc, 1 hr) - Incorporeal Arcane Eye
+
+Psionic Restoration
+Psychic Focus - Spare the Dying
+Mend Wounds (1-7 psi) - 1d8 HP regain per psi
+Restore Health (3 psi) - Lesser Restoration
+Restore Life (5 psi) - Revivify
+Restore Vigor (7 psi) - Greater Restoration
+
+Adaptive Body
+Psychic Focus - No eating, breathing, or sleeping
+Environmental Adaptation (2 psi) - Immune to extreme heat or cold
+Adaptive Shield (3 psi) - Absorb Elements w/o damage bonus
+Energy Adaptation (5 psi, conc, 1 hr) - Protection from Energy
+Energy Immunity (7 psi, conc, 1 hr) - Immunity from Energy

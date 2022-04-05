@@ -1,0 +1,103 @@
+STR: 13
+DEX: 19
+CON: 15
+INT: 14
+WIS: 16
+CHA: 15
+
+Race: Wood Elf
+Class: Rogue
+Background: Urban Bounty Hunter
+Skill Proficiencies: Perception, Stealth, Persuasion, Intimidation, Deception, Insight, Investigation
+Expertise: Perception, Stealth
+Weapon Proficiencies: Rapier, Shortbow, Longbow, Simple Weapons, Thieves' Tools, Dice Set, Viol
+Equipment: Rapier, Shortbow, Quiver, 20 Arrows, 2 Daggers, Burglar's Pack, Leather Armor, Dark Common Clothes, Thieves' Tools, 20 GP
+Skills: Darkvision, Fey Ancestry, Trance, Fleet of Foot, Mask of the Wild, Sneak Attack
+Languages: Common, Elven, Thieves' Cant
+Feature: Ear to the Ground
+
+Level 2
+Multiclass: Ranger 1
+Skills: Favored Foe
+Expertise: Persuasion
+Languges: Draconic, Sylvan
+
+Level 3
+Multiclass: Ranger 2
+Fighting Style: Archery
+1st Tier Spells: Hunter's Mark, Ensnaring Strike
+
+Level 4
+Multiclass: Ranger 3
+Ranger Conclave: Gloom Stalker
+Skills: Dread Ambusher, Umbral Sight
+1st Tier Spell: Speak With Animals, Disguise Self, Entangle
+
+Level 5
+Multiclass: Ranger 4
+Feat: Elven Accuracy (20 Dex)
+
+Level 6
+Multiclass: Ranger 5
+Skills: Extra Attack, Roving
+2nd Tier Spell: Rope Trick, Beast Sense, Pass Without Trace
+
+Level 7
+Class: Rogue 2
+Skill: Cunning Action
+
+Level 8
+Class: Rogue 3
+Roguish Archetype: Scout
+Skill Proficiencies: Nature, Survival
+Expertise: Nature, Survival
+
+Level 9
+Class: Rogue 4
+Feat: Magic Initiate
+Cantrips: Message, Mage Hand
+1st Tier Spell: Find Familiar
+
+Level 10
+Class: Rogue 5
+Skill: Uncanny Dodge
+
+Level 11
+Class: Rogue 6
+Expertise: Intimidation, Insight
+
+Level 12
+Class: Rogue 7
+Skill: Evasion
+
+Level 13
+Class: Rogue 8
+Feat: Sharpshooter
+
+Level 14
+Class: Rogue 9
+Skill: Superior Mobility
+
+Level 15
+Class: Rogue 10
+ASI: +2 Wis (18 Wis)
+
+Level 16
+Class: Rogue 11
+Skill: Reliable Talent
+
+Level 17
+Class: Rogue 12
+ASI: +2 Wis (20 Wis)
+
+Level 18
+Class: Rogue 13
+Skill: Ambush Master
+
+Level 19
+Class: Rogue 14
+Skill: Blindsense
+
+Level 20
+Class: Rogue 15
+Skill: Slippery Mind

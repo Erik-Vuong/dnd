@@ -1,0 +1,104 @@
+STR: 6
+DEX: 14
+CON: 15
+INT: 8
+WIS: 12
+CHA: 19
+
+1st Level
+Race: Half-Drow
+Background: Guild Artisan
+Skill Proficiencies: Deception, Intimidation, Insight, Persuasion
+Weapon Proficiencies: Simple Weapons, Light Armor, Potter's Tools
+Equipment: Quarterstaff, 2 Daggers, Light Crossbow, 20 Bolts, Component Pouch, Leather Armor, Dungeoneer's Pack, Potter's Tools, Letter of Introduction, Traveler's Clothes, 15 GP
+Skills: Darkvision, Fey Ancestry, Genie's Vessel
+Languages: Common, Elven, Draconic
+Feature: Guild Membership
+Otherworldly Patron: Dao Genie
+Genie Spells: Detect Good and Evil, Sanctuary
+Cantrips: Eldritch Blast, Prestidigitation
+1st Tier Spells: Hex, Armor of Agathys
+Drow Magic: Dancing Lights
+
+2nd Level
+Eldritch Invocations: Agonizing Blast, Eldritch Mind
+1st Tier Spell: Protection from Evil and Good
+
+3rd Level
+Pact Boon: Pact of the Tome
+Genie Spells: Phantasmal Force, Spike Growth
+Cantrips: Minor Illusion, Guidance, Thaumaturgy
+2nd Tier Spell: Misty Step
+Drow Magic: Faerie Fire
+
+4th Level
+Feat: Elven Accuracy (20 Cha)
+Cantrip: Mage Hand
+2nd Tier Spell: Invisibility
+
+5th Level
+Eldritch Invocation: Maddening Hex
+Genie Spells: Create Food and Water, Meld into Stone
+3rd Tier Spell: Counterspell
+Drow Magic: Darkness
+
+6th Level
+Skill: Elemental Gift
+3rd Tier Spell: Hypnotic Pattern
+
+7th Level
+Eldritch Invocation: Book of Ancient Secrets
+Rituals: Find Familiar, Detect Magic
+Genie Spells: Phantasmal Killer, Stone Shape
+4th Tier Spell: Banishment
+
+8th Level
+Feat: Resilient (16 Con)
+4th Tier Spell: Shadow of Moil
+
+9th Level
+Eldritch Invocation: Devil's Sight
+Genie Spells: Creation, Wall of Stone
+5th Tier Spell: Synpatic Static
+
+10th Level
+Skill: Sanctuary Vessel
+Cantrip: Message
+
+11th Level
+Mystic Arcanum: Mental Prison
+5th Tier Spell: Scrying
+
+12th Level
+Eldritch Invocation: Whispers of the Grave
+Feat: Eldritch Adept (Ghostly Gaze)
+
+13th Level
+Mystic Arcanum: Forcecage
+5th Tier Spell: Dream
+
+14th Level
+Skill: Limited Wish
+
+15th Level
+Eldritch Invocation: Visions of Distant Realms
+Mystic Arcanum: Maddening Darkness
+5th Tier Spell: Teleportation Circle
+
+16th Level
+Feat: Lucky
+
+17th Level
+Mystic Arcanum: Foresight
+Genie Spell: Wish
+5th Tier Spell: Contact Other Plane
+
+18th Level
+Eldritch Invocation: Shroud of Shadow
+
+19th Level
+Feat: Tough
+5th Tier Spell: Modify Memory
+
+20th Level
+Skill: Eldritch Master

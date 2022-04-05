@@ -1,0 +1,76 @@
+STR: 17
+DEX: 14
+CON: 16
+INT: 8
+WIS: 10
+CHA: 8
+
+1st Level
+Class: Barbarian
+Race: Bugbear
+Background: Soldier
+Skill Proficiencies: Perception, Survival, Athletics, Intimidation, Stealth
+Weapon Proficiencies: Simple Weapons, Martial Weapons, Light Armor, Medium Armor, Shields
+Equipment: Glaive, 2 Handaxes, 4 Javelins, Explorer's Pack, Rank Insignia, Enemy Trophy, Bone Dice, Common Clothes, 10 GP
+Skills: Darkvision, Long-Limbed, Powerful Build, Sneak Attack, Rage, Unarmored Defense
+Languages: Common, Goblin
+Feature: Military Rank (Scout)
+
+2nd Level
+Skills: Reckless Attack, Danger Sense
+
+3rd Level
+Primal Path: Path of the Beast
+Form of the Beast: Tail
+Primal Knowledge: Nature
+
+4th Level
+Feat: Piercer (18 Str)
+
+5th Level
+Skills: Extra Attack, Fast Movement
+
+6th Level
+Skill: Bestial Soul
+
+7th Level
+Skills: Feral Instinct, Instinctive Pounce
+
+8th Level
+ASI: +2 Str (20 Str)
+
+9th Level
+Skill: Brutal Critical (x1)
+
+10th Level
+Skill: Infectious Fury
+
+11th Level
+Skill: Relentless Rage
+
+12th Level
+Feat: Sentinel
+
+13th Level
+Skill: Brutal Critical (x2)
+
+14th Level
+Skill: Call of the Hunt
+
+15th Level
+Skill: Persistent Rage
+
+16th Level
+ASI: +2 Con (18 Con)
+
+17th Level
+Skill: Brutal Critical (x3)
+
+18th Level
+Skill: Indomitable Might
+
+19th Level
+ASI: +2 Con (20 Con)
+
+20th Level
+Skill: Primal Champion (24 Str, 24 Con)

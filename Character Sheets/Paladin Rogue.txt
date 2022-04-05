@@ -1,0 +1,114 @@
+STR: 14
+DEX: 19 
+CON: 15
+INT: 10
+WIS: 12
+CHA: 20
+
+1st Level
+Class: Rogue 1
+Race: Half-Drow
+Background: Spy
+Skill Proficiencies: Perception, Persuasion, Intimidation, Insight, Deception, Stealth
+Weapon Proficiencies: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords, Thieves' Tools, Dice Set, Playing Cards
+Equipment: 2 Shortswords, Leather Armor, 2 Daggers, Burglar's Pack, Thieves' Tools, Crowbar, Dark Common Clothes, 15 GP
+Skills: Darkvision, Fey Ancestry, Sneak Attack
+Expertise: Perception, Stealth
+Languages: Common, Elven, Thieves' Cant
+Feature: Criminal Contact
+Drow Magic: Dancing Lights
+
+2nd Level
+Class: Rogue 2
+Skill: Cunning Action
+
+3rd Level
+Class: Rogue 3
+Roguish Archetype: Swashbuckler
+Skills: Fancy Footwork, Rakish Audacity
+Drow Magic: Faerie Fire
+
+4th Level
+Class: Rogue 4
+Feat: Elven Accuracy (20 Dex)
+
+5th Level
+Multiclass: Paladin 1
+Skills: Divine Sense, Lay on Hands
+Drow Magic: Darkness
+
+6th Level
+Multiclass: Paladin 2
+Fighting Style: Defense
+Skill: Divine Smite
+1st Tier Spells: Bless, Command, Shield of Faith, Thunderous Smite, Wrathful Smite, Protection from Evil and Good
+
+7th Level
+Multiclass: Paladin 3
+Sacred Oath: Vengeance
+Skill: Divine Oath
+Channel Divinity: Abjure Enemy, Vow of Enmity
+Oath Spells: Bane, Hunter's Mark
+
+8th Level
+Multiclass: Paladin 4
+Feat: Shield Master
+
+9th Level
+Multiclass: Paladin 5
+Skill: Extra Attack
+Oath Spells: Hold Person, Misty Step
+Drop 1st Tier Spell: Command
+2nd Tier Spells: Aid, Lesser Restoration
+
+10th Level
+Class: Rogue 5
+Skill: Uncanny Dodge
+
+11th Level
+Multiclass: Warlock 1
+Otherworldy Patron: Hexblade
+Skills: Hexblade's Curse, Hex Warrior
+Cantrips: Booming Blade, Green-Flame Blade
+1st Tier Spells: Armor of Agathys, Hex
+Hexblade Spells: Shield, Wrathful Smite
+
+12th Level
+Multiclass: Warlock 2
+Eldritch Invocations: Devil's Sight, Eldritch Mind
+1st Tier Spell: Hellish Rebuke
+
+13th Level
+Multiclass: Paladin 6
+Skill: Aura of Protection
+
+14th Level
+Multiclass: Paladin 7
+Skill: Relentless Avenger
+
+15th Level
+Multiclass: Paladin 8
+Feat: Lucky
+
+16th Level
+Multiclass: Paladin 9
+Oath Spells: Haste, Protection from Energy
+3rd Tier Spell: Blinding Smite, Revivify
+
+17th Level
+Multiclass: Paladin 10
+Skill: Aura of Courage
+3rd Tier Spell: Crusader's Mantle
+
+18th Level
+Multiclass: Paladin 11
+Skill: Improved Divine Smite
+
+19th Level
+Multiclass: Paladin 12
+Feat: Alert
+
+20th Level
+Multiclass: Paladin 13
+4th Tier Spell: Death Ward
+Oath Spells: Banishment, Dimension Door

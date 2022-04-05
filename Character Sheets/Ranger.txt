@@ -1,0 +1,88 @@
+1st Level
+Race: Wood Elf
+Background: Urchin
+Skill Proficiencies: Perception, Stealth, Sleight of Hand, Survival, Nature, Insight
+Weapon Proficiencies: Simple Weapons, Martial Weapons, Light Armor, Medium Armor, Shields, Disguise Kit, Thieves' Tools
+Equipment: 2 Shortswords, Longbow, 20 Arrows, Explorer's Pack, Small Knife, Map of Hometown, Pet Mouse, Token of Parents, Common Clothes, 10 GP
+Skills: Darkvision, Fey Ancestry, Trance, Fleet of Foot, Mask of the Wild, Favored Foe (1d4)
+Expertise: Perception
+Languages: Common, Elven, Draconic, Dwarvish
+Feature: City Streets
+
+2nd Level
+Fighting Style: Archery
+Skill: Spellcasting Focus
+1st Tier Spells: Hunter's Mark, Entangle
+
+3rd Level
+Ranger Conclave: Gloom Stalker
+Primal Awareness: Speak with Animals
+Gloom Stalker Magic: Disguise Self
+Skills: Dread Ambusher, Umbral Sight
+1st Tier Spell: Ensnaring Strike
+
+4th Level
+Feat: Elven Accuracy (18 Dex)
+2nd Tier Spell: Spike Growth
+
+5th Level
+Primal Awareness: Beast Sense
+Gloom Stalker Magic: Rope Trick
+Skill: Extra Attack
+2nd Tier Spell: Spike Growth
+
+6th Level
+Skill: Favored Foe (1d6), Roving
+
+7th Level
+Skill: Iron Mind
+2nd Tier Spell: Silence
+
+8th Level
+ASI: +2 Dex (20 Dex)
+Skill: Land's Stride
+
+9th Level
+Primal Awareness: Speak with Plants
+Gloom Stalker Magic: Fear
+3rd Tier Spell: Plant Growth
+
+10th Level
+Skill: Tireless, Nature's Veil
+
+11th Level
+Skill: Stalker's Flurry
+2nd Tier Spell: Pass Without Trace
+
+12th Level
+ASI: +2 Wis (18 Wis)
+
+13th Level
+Primal Awareness: Locate Creature
+Gloom Stalker Magic: Greater Invisibility
+4th Tier Spell: Guardian of Nature
+
+14th Level
+Skill: Favored Foe (1d8), Vanish
+
+15th Level
+Skill: Shadowy Dodge
+4th Tier Spell: Freedom of Movement
+
+16th Level
+ASI: +2 Wis (20 Wis)
+
+17th Level
+Primal Awareness: Commune with Nature
+Gloom Stalker Magic: Seeming
+5th Tier Spell: Swift Quiver
+
+18th Level
+Skill: Feral Senses
+
+19th Level
+Feat: Skill Expert (16 Con, Acrobatics, Stealth)
+5th Tier Spell: Conjure Volley
+
+20th Level
+Skill: Foe Slayer

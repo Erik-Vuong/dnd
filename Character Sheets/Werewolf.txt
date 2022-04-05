@@ -1,0 +1,79 @@
+STR: 19
+DEX: 13
+CON: 14
+INT: 9
+WIS: 15
+CHA: 12
+
+1st Level
+Race: Lycanthrope
+Background: Mercenary Veteran
+Skill Proficiencies: Intimidation, Perception, Athletics, Insight, Survival
+Weapon Proficiencies: Simple Weapons, Martial Weapons, All Armor, Shields, Bone Dice, Vehicles (Land)
+Equipment: 2 Handaxes, Light Crossbow, 20 Bolts, Chainmail, Explorer's Pack, Rank Insignia, Bone Dice, Uniform, 10 GP
+Skills: Darkvision, Frenzy, Feast of Blood, Hunter's Bane, Blood Maledict (x1)
+Languages: Deep Speech
+Feature: Mercenary Life
+Blood Curse: Blood Curse of the Eyeless
+
+2nd Level
+Fighting Style: Superior Technique (Menacing Attack)
+Skill: Crimson Rite
+
+3rd Level
+Skills: Heightened Senses, Hybrid Transformation
+
+4th Level
+Feat: Tavern Brawler (20 Str)
+
+5th Level
+Skill: Extra Attack
+
+6th Level
+Skill: Brand of Castigation, Blood Maledict (x2)
+Blood Curse: Blood Curse of Bloated Agony
+
+7th Level
+Skill: Improved Crimson Rites
+
+8th Level
+Feat: Fey Touched (16 Wis, Hex)
+
+9th Level
+Skills: Grim Psychometry, Iron Will
+
+10th Level
+Skill: Dark Augmentation
+Blood Curse: Blood Curse of the Marked
+
+11th Level
+Skills: Improved Attacks, Advanced Transformation
+
+12th Level
+Feat: Tough
+
+13th Level
+Skills: Brand of Tethering, Blood Maledict (x3)
+
+14th Level
+Skills: Improved Crimson Rites, Hardened Soul
+Blood Curse: Blood Curse of Exposure
+
+15th Level
+Skill: Brand of the Voracious
+
+16th Level
+ASI: +2 Wis (18 Wis)
+
+17th Level
+Skills: Perfect Will, Blood Maledict (x4)
+
+18th Level
+Skill: Improved Attacks
+Blood Curse: Blood Curse of the Howl
+
+19th Level
+ASI: +2 Wis (20 Wis)
+
+20th Level
+Skill: Sanguine Mastery
