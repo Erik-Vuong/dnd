@@ -1,0 +1,43 @@
+Random Encounter
+Wood Woad x1
+
+Beginning Encounter
+Shambling Mound x3
+Will-o'-Wisp x9
+
+Ambush on Players
+Mantrap x1
+Corpse Flower x1
+Carnivorous Flower x2
+
+Ambush on Players
+Rocs x2
+
+Camp Attack
+Baboons x5
+Orangutan x1
+
+Bridge Battle
+Treant x2
+Assassin Vine x1
+
+Optional Encounter
+Myconid Sovereign x5
+
+Chokepoint Battle
+Yuan-ti Warrior x4
+Yuan-ti Archer x4
+Yuan-ti Shaman x2
+
+Quest Miniboss
+Guardian Naga x1
+
+Quest Boss
+Yuan-ti Anathema x1
+
+After Quest Miniboss
+Bodak x1
+Will-o'-Wisp x2
+
+After Quest Boss
+Nightwalker x1
