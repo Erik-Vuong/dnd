@@ -1,0 +1,40 @@
+Wild Magic Table
+1. Arcane Gate
+2. Create Homunculus
+3. Create Undead
+4. Flesh to Stone
+5. Gravity Fissure
+6. Guards and Wards
+7. Investiture of Flame
+8. Investiture of Ice
+9. Magic Jar
+10. Sunbeam
+
+Madness Table
+1. You feel compelled to keep drawing from the Deck of Minor Things
+2. You experience vivid hallucinations and have disadvantage on ability checks
+3. You suffer extreme paranoia and have disadvantage on Wisdom and Charisma checks
+4. You regard the Deck of Minor Things with revulsion and try to get rid of it by any means
+5. You believe that you are under the effects of a potion (roll on the potion table)
+6. You use Deck of Minor Things as a lucky charm and have disadvantage on rolls when not within 30 ft
+7. Roll a d4. On a 1, you are blind. On a 2, you are deaf. On a 3, you are mute. On a 4, you are numb.
+8. You gain tics and have disadvantage on Strength/Dexterity rolls
+9. Your character gains partial amnesia and only remembers who they are
+10. Your character falls into a magical sleep
+
+Nerfs - 4/10
+Wild Card - 3/10
+Story - 3/10
+
+Potion Table
+1. Potion of Climbing
+2. Philter of Love
+3. Potion of Giant Strength
+4. Potion of Growth
+5. Potion of Poison
+6. Potion of Diminuation
+7. Potion of Invulnerability
+8. Potion of Mind Reading
+9. Potion of Flying
+10. Potion of Invisiblity
+
