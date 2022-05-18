@@ -1,0 +1,22 @@
+3 - 2/144 = 1.4% - The Tower - A disaster happens or you gain the ability to stop one
+4 - 2/144 = 1.4% - Death - Enemy revives or you can revive from death once at half HP
+5 - 4/144 = 2.8% - Justice - Gain a blessing/curse, potency based on alignment deeds
+6 - 4/144 = 2.8% - The Magician - Cast 6th level spell or have one cast on you
+7 - 6/144 = 4.2% The Chariot - Next combat has advantage/disadvantage
+8 - 6/144 = 4.2% - The Hierophant - Ask the gods a question or gain long-term madness
+9 - 8/144 = 5.6% - The Fool - Roll three more cards, all are good/bad
+10 - 8/144 = 5.6% - Wheel of Fortune - Draw a good/bad card, effect is doubled
+11 - 10/144 = 7.0% The Empress - Advantage/Disadvantage on Persuasion checks
+12 - 10/144 = 7.0% - Strength - Increase/decrease lowest physical stat by 1
+13 - 12/144 = 8.4% - Temperance - Add or subtract one roll of your hit dice from your max HP
+14 - 10/144 = 7.0% - The Moon - Increase/Decrease lowest mental stat by 1
+15 - 10/144 = 7.0% The Emperor - Advantage/Disadvantage on Intimidation checks
+16 - 8/144 = 5.6% - Judgement - Ignore the next good/bad effect
+17 - 8/144 = 5.6% - The Hanged Man - Gain a level early or lose one until you overcome a weakness
+18 - 6/144 = 4.2% - The Hermit - You recieve enlightenment or gain long-term madness
+19 - 6/144 = 4.2% - The Star - One roll is a Nat 20/Nat 1, decided by you/DM
+20 - 4/144 = 2.8% - The Lovers - An enemy befriends you or a friend betrays you
+21 - 4/144 = 2.8% - The Devil - Evil god gains interest in you/Evil doppelganger
+22 - 2/144 = 1.4% - The Sun - Your age becomes your prime/a child, add/subtract 2 from all stats (max 20, min 3)
+23 - 2/144 = 1.4% - The World - One goal/issue is guaranteed to finish
+Double - 12/144 - 8.4% - The High Priestess -  Gain/lose proficiency in one skill

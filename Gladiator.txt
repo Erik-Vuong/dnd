@@ -1,0 +1,80 @@
+STR: 17
+DEX: 14
+CON: 16
+INT: 8
+WIS: 10
+CHA: 8
+
+1st Level
+Race: Bugbear
+Background: Soldier (Officer)
+Skill Proficiencies: Athletics, Perception, Stealth, Intimidation, Insight
+Weapon Proficiencies: Simple Weapons, Martial Weapons, All Armor, Shields, Dice Set, Vehicles (Land)
+Equipment: Halberd, 2 Handaxes, Scale Mail, Explorer's Pack, Mastiff, Rank Insignia, Enemy Trophy, Bone Dice, Common Clothes, 35 GP
+Skills: Darkvision, Long-Limbed, Powerful Build, Surprise Attack, Second Wind
+Languages: Common, Goblin
+Feature: Military Rank
+Fighting Style: Defense
+
+2nd Level
+Skill: Action Surge
+
+3rd Level
+Martial Archetype: Echo Knight
+Skills: Manifest Echo, Unleash Incarnation
+
+4th Level
+Feat: Slasher (18 Str)
+
+5th Level
+Skill: Extra Attack (x1)
+
+6th Level
+Multiclass: Barbarian 1
+Skills: Rage, Unarmored Defense
+
+7th Level
+Multiclass: Barbarian 2
+Skills: Reckless Attack, Danger Sense
+
+8th Level
+Multiclass: Barbarian 3
+Primal Knowledge: Survival
+Primal Path: Ancestral Guardian
+Skill: Ancestral Protectors
+
+9th Level
+Feat: Great Weapon Master
+
+10th Level
+Skill: Echo Avatar
+
+11th Level
+ASI: +2 Str (20 Str)
+
+12th Level
+Skill: Indomitable (x1)
+
+13th Level
+Skill: Shadow Martyr
+
+14th Level
+Skill: Extra Attack (x2)
+
+15th Level
+Feat: Martial Adept (Trip Attack, Menacing Attack)
+
+16th Level
+Skill: Indomitable (x2)
+
+17th Level
+ASI: +2 Con (18 Con)
+
+18th Level
+Skill: Reclaim Potential
+
+19th Level
+ASI: +2 Con (20 Con)
+
+20th Level
+Skills: Action Surge (x2), Indomitable (x3)
